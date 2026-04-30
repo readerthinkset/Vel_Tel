@@ -1056,13 +1056,27 @@ def generate_complete_image(phrase_data: dict, category_english: str, output_pat
         """Wrap text to fit within max_width - handles both English and Telugu"""
         lines = []
 
-        # Telugu Unicode range: \u0C00-\u0C7F
         is_telugu = any('\u0c00' <= c <= '\u0c7f' for c in text)
 
         if is_telugu:
-            max_chars = 18
-            for i in range(0, len(text), max_chars):
-                lines.append(text[i:i + max_chars])
+            words = text.split(' ')
+            current_line = ''
+            for word in words:
+                test_line = (current_line + ' ' + word).strip() if current_line else word
+                try:
+                    bbox = draw.textbbox((0, 0), test_line, font=font)
+                    width = bbox[2] - bbox[0]
+                except Exception:
+                    width = len(test_line) * 40
+                if width <= max_width or not current_line:
+                    current_line = test_line
+                else:
+                    lines.append(current_line)
+                    current_line = word
+            if current_line:
+                lines.append(current_line)
+            if not lines:
+                lines = [text]
         else:
             words = text.split()
             current_line = []
@@ -1137,10 +1151,34 @@ def generate_complete_image(phrase_data: dict, category_english: str, output_pat
 
     if use_harfbuzz:
         max_telugu_width = VIDEO_WIDTH - 200
-        max_chars_per_line = 22
+        telugu_words = telugu.split(' ')
         telugu_lines = []
-        for i in range(0, len(telugu), max_chars_per_line):
-            telugu_lines.append(telugu[i:i + max_chars_per_line])
+        current_line_words = []
+
+        for word in telugu_words:
+            test_line = ' '.join(current_line_words + [word]) if current_line_words else word
+            _, test_w = _render_text_harfbuzz(
+                test_line, telugu_font_path, 65,
+                fill_color=(255, 255, 0, 255)
+            )
+            single_word_w = 0
+            if current_line_words:
+                _, single_word_w = _render_text_harfbuzz(
+                    word, telugu_font_path, 65,
+                    fill_color=(255, 255, 0, 255)
+                )
+
+            if test_w <= max_telugu_width or not current_line_words:
+                current_line_words.append(word)
+            else:
+                telugu_lines.append(' '.join(current_line_words))
+                current_line_words = [word]
+
+        if current_line_words:
+            telugu_lines.append(' '.join(current_line_words))
+
+        if not telugu_lines:
+            telugu_lines = [telugu]
 
         line_spacing = 85
         total_height = len(telugu_lines) * line_spacing
