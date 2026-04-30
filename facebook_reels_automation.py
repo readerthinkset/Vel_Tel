@@ -549,6 +549,29 @@ async def generate_single_audio(text: str, voice: str, output_path: str):
         return False
 
 
+async def generate_audio_with_retries(text: str, voice: str, output_path: str, max_retries: int = 3):
+    """Generate audio with retry logic for TTS failures"""
+    import asyncio
+    for attempt in range(1, max_retries + 1):
+        success = await generate_single_audio(text, voice, output_path)
+        if success:
+            if Path(output_path).exists() and Path(output_path).stat().st_size > 100:
+                return True
+            else:
+                print(f"    TTS file too small or missing, retrying ({attempt}/{max_retries})...")
+                await asyncio.sleep(2 * attempt)
+                continue
+        else:
+            if attempt < max_retries:
+                wait = 2 * attempt
+                print(f"    TTS retry {attempt}/{max_retries} in {wait}s...")
+                await asyncio.sleep(wait)
+            else:
+                print(f"    TTS failed after {max_retries} attempts, using silence fallback")
+                return False
+    return False
+
+
 def generate_all_audio(phrases: list, output_dir: str):
     """Generate audio for all phrases with proper timing"""
 
@@ -566,18 +589,20 @@ def generate_all_audio(phrases: list, output_dir: str):
         print(f"    TE: {phrase['telugu']}")
 
         # Generate English audio
-        en_success = asyncio.run(generate_single_audio(phrase["english"], ENGLISH_VOICE, str(english_file)))
+        en_success = asyncio.run(generate_audio_with_retries(phrase["english"], ENGLISH_VOICE, str(english_file)))
         if en_success:
             print(f"    - English: {english_file.name}")
         else:
+            print(f"    - English: SILENCE FALLBACK (TTS failed)")
             cmd = ["ffmpeg", "-y", "-f", "lavfi", "-i", "anullsrc=r=24000:cl=mono", "-t", "2", str(english_file)]
             subprocess.run(cmd, capture_output=True)
 
         # Generate Telugu audio
-        te_success = asyncio.run(generate_single_audio(phrase["telugu"], TELUGU_VOICE, str(telugu_file)))
+        te_success = asyncio.run(generate_audio_with_retries(phrase["telugu"], TELUGU_VOICE, str(telugu_file)))
         if te_success:
             print(f"    - Telugu: {telugu_file.name}")
         else:
+            print(f"    - Telugu: SILENCE FALLBACK (TTS failed)")
             cmd = ["ffmpeg", "-y", "-f", "lavfi", "-i", "anullsrc=r=24000:cl=mono", "-t", "2", str(telugu_file)]
             subprocess.run(cmd, capture_output=True)
 
