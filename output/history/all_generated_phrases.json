@@ -34,7 +34,42 @@
       "transliteration": "lopali balam, prakaashistundi.",
       "category": "Courage",
       "generated_at": "2026-04-30T02:50:30.255285"
+    },
+    {
+      "english": "Hello, how are you doing?",
+      "telugu": "నమస్కారం, ఎలా ఉన్నారు?",
+      "transliteration": "namaskaram, ela unnaru?",
+      "category": "Common Expressions",
+      "generated_at": "2026-04-30T03:04:34.866887"
+    },
+    {
+      "english": "Thank you, that's kind.",
+      "telugu": "ధన్యవాదాలు, చాలా దయ.",
+      "transliteration": "dhanyavadalu, chala daya.",
+      "category": "Common Expressions",
+      "generated_at": "2026-04-30T03:04:34.866894"
+    },
+    {
+      "english": "Excuse me, please wait.",
+      "telugu": "క్షమించండి, దయచేసి ఆగండి.",
+      "transliteration": "kshamimchandi, dayachesi agandi.",
+      "category": "Common Expressions",
+      "generated_at": "2026-04-30T03:04:34.866896"
+    },
+    {
+      "english": "I don't understand, sorry.",
+      "telugu": "నాకు అర్థం కాలేదు, క్షమించండి.",
+      "transliteration": "naku artham kaledu, kshamimchandi.",
+      "category": "Common Expressions",
+      "generated_at": "2026-04-30T03:04:34.866897"
+    },
+    {
+      "english": "Where is the restroom?",
+      "telugu": "విశ్రాంతి గది ఎక్కడ ఉంది?",
+      "transliteration": "vishranti gadi ekkada undi?",
+      "category": "Common Expressions",
+      "generated_at": "2026-04-30T03:04:34.866899"
     }
   ],
-  "last_updated": "2026-04-30T02:50:30.255287"
+  "last_updated": "2026-04-30T03:04:34.866901"
 }
