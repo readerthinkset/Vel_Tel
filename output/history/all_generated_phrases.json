@@ -139,7 +139,42 @@
       "transliteration": "oka dayagala maaTa, chaalaa dooram veLtundi.",
       "category": "Kindness",
       "generated_at": "2026-04-30T18:55:47.836343"
+    },
+    {
+      "english": "Hello, how are you?",
+      "telugu": "నమస్కారం, ఎలా ఉన్నారు?",
+      "transliteration": "namaskaram, ela unnaru?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-04-30T22:38:33.127052"
+    },
+    {
+      "english": "Thank you, very much.",
+      "telugu": "ధన్యవాదాలు, చాలా.",
+      "transliteration": "dhanyavadalu, chala.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-04-30T22:38:33.127060"
+    },
+    {
+      "english": "My name, is John.",
+      "telugu": "నా పేరు, జాన్.",
+      "transliteration": "naa peru, John.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-04-30T22:38:33.127062"
+    },
+    {
+      "english": "Where is, the station?",
+      "telugu": "స్టేషన్, ఎక్కడ ఉంది?",
+      "transliteration": "station, ekkada undi?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-04-30T22:38:33.127063"
+    },
+    {
+      "english": "I want, water please.",
+      "telugu": "నాకు, నీళ్లు కావాలి దయచేసి.",
+      "transliteration": "naku, neellu kavali dayachesi.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-04-30T22:38:33.127064"
     }
   ],
-  "last_updated": "2026-04-30T18:55:47.836345"
+  "last_updated": "2026-04-30T22:38:33.127066"
 }
