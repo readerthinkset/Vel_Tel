@@ -314,7 +314,42 @@
       "transliteration": "Nee kallallo, nenu kolpoyanu.",
       "category": "Love",
       "generated_at": "2026-05-01T20:14:07.941756"
+    },
+    {
+      "english": "How much is this?, please.",
+      "telugu": "ఇది ఎంత?, దయచేసి.",
+      "transliteration": "idi entha?, dayachesi.",
+      "category": "Shopping Telugu",
+      "generated_at": "2026-05-01T22:37:17.965576"
+    },
+    {
+      "english": "Can I see?, that one?",
+      "telugu": "అది చూడవచ్చా?, ఆ వస్తువు?",
+      "transliteration": "adi choodavachhaa?, aa vastuvu?",
+      "category": "Shopping Telugu",
+      "generated_at": "2026-05-01T22:37:17.965584"
+    },
+    {
+      "english": "I want this., very much.",
+      "telugu": "నాకు ఇది కావాలి., చాలా.",
+      "transliteration": "naaku idi kaavali., chaalaa.",
+      "category": "Shopping Telugu",
+      "generated_at": "2026-05-01T22:37:17.965586"
+    },
+    {
+      "english": "Do you have?, this size?",
+      "telugu": "మీ దగ్గర ఉందా?, ఈ సైజు?",
+      "transliteration": "mee daggara undhaa?, ee saiju?",
+      "category": "Shopping Telugu",
+      "generated_at": "2026-05-01T22:37:17.965587"
+    },
+    {
+      "english": "Where is the?, changing room?",
+      "telugu": "మార్పు గది ఎక్కడ?, ఉంది?",
+      "transliteration": "maarpu gadhi ekkada?, undi?",
+      "category": "Shopping Telugu",
+      "generated_at": "2026-05-01T22:37:17.965588"
     }
   ],
-  "last_updated": "2026-05-01T20:14:07.941758"
+  "last_updated": "2026-05-01T22:37:17.965590"
 }
