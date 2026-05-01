@@ -174,7 +174,42 @@
       "transliteration": "naku, neellu kavali dayachesi.",
       "category": "Basic Phrases",
       "generated_at": "2026-04-30T22:38:33.127064"
+    },
+    {
+      "english": "I appreciate your help.",
+      "telugu": "మీ సహాయాన్ని, అభినందిస్తున్నాను.",
+      "transliteration": "mee sahaayaanni, abhinandistunnaanu",
+      "category": "Gratitude",
+      "generated_at": "2026-05-01T07:55:03.626049"
+    },
+    {
+      "english": "You are so kind.",
+      "telugu": "మీరు, చాలా దయగలవారు.",
+      "transliteration": "meeru, chaala dayagalavaaru",
+      "category": "Gratitude",
+      "generated_at": "2026-05-01T07:55:03.626058"
+    },
+    {
+      "english": "This is wonderful, thank you.",
+      "telugu": "ఇది అద్భుతం, ధన్యవాదాలు.",
+      "transliteration": "idi adbhutam, dhanyavaadaalu",
+      "category": "Gratitude",
+      "generated_at": "2026-05-01T07:55:03.626059"
+    },
+    {
+      "english": "I'm grateful, for this.",
+      "telugu": "దీనికి, నేను కృతజ్ఞుడను.",
+      "transliteration": "deeniki, nenu krutagnudanu",
+      "category": "Gratitude",
+      "generated_at": "2026-05-01T07:55:03.626061"
+    },
+    {
+      "english": "Thanks for everything.",
+      "telugu": "అన్నింటికీ, ధన్యవాదాలు.",
+      "transliteration": "annintiki, dhanyavaadaalu",
+      "category": "Gratitude",
+      "generated_at": "2026-05-01T07:55:03.626062"
     }
   ],
-  "last_updated": "2026-04-30T22:38:33.127066"
+  "last_updated": "2026-05-01T07:55:03.626063"
 }
