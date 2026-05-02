@@ -349,7 +349,42 @@
       "transliteration": "maarpu gadhi ekkada?, undi?",
       "category": "Shopping Telugu",
       "generated_at": "2026-05-01T22:37:17.965588"
+    },
+    {
+      "english": "Hello there, good morning.",
+      "telugu": "నమస్కారం, శుభోదయం.",
+      "transliteration": "namaskaram, shubhodhayam.",
+      "category": "Greetings",
+      "generated_at": "2026-05-02T06:32:52.463778"
+    },
+    {
+      "english": "Hi friend, how are you?",
+      "telugu": "హాయ్ స్నేహితుడా, ఎలా ఉన్నావు?",
+      "transliteration": "hai snehithuda, ela unnavu?",
+      "category": "Greetings",
+      "generated_at": "2026-05-02T06:32:52.463787"
+    },
+    {
+      "english": "Welcome to my home.",
+      "telugu": "మా ఇంటికి స్వాగతం.",
+      "transliteration": "maa intiki swagatham.",
+      "category": "Greetings",
+      "generated_at": "2026-05-02T06:32:52.463788"
+    },
+    {
+      "english": "Nice to meet you.",
+      "telugu": "మిమ్మల్ని కలవడం సంతోషంగా ఉంది.",
+      "transliteration": "mimmalni kalavadam santhoshamga undi.",
+      "category": "Greetings",
+      "generated_at": "2026-05-02T06:32:52.463790"
+    },
+    {
+      "english": "Good evening, sir.",
+      "telugu": "శుభ సాయంత్రం, గారు.",
+      "transliteration": "shubha sayanthram, garu.",
+      "category": "Greetings",
+      "generated_at": "2026-05-02T06:32:52.463791"
     }
   ],
-  "last_updated": "2026-05-01T22:37:17.965590"
+  "last_updated": "2026-05-02T06:32:52.463793"
 }
