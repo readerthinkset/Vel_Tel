@@ -454,7 +454,42 @@
       "transliteration": "inka ledu, aagu.",
       "category": "Time Telugu",
       "generated_at": "2026-05-02T16:33:15.059899"
+    },
+    {
+      "english": "Learning Telugu, for connection.",
+      "telugu": "తెలుగు నేర్చుకోవడం, అనుబంధం కోసం.",
+      "transliteration": "telugu nerchukovadam, anubandham kosam.",
+      "category": "Purpose",
+      "generated_at": "2026-05-02T19:58:38.136018"
+    },
+    {
+      "english": "Exploring culture, step by step.",
+      "telugu": "సంస్కృతిని అన్వేషించడం, అడుగడుగునా.",
+      "transliteration": "samskrutini anveshinchadam, aduguduguna.",
+      "category": "Purpose",
+      "generated_at": "2026-05-02T19:58:38.136027"
+    },
+    {
+      "english": "Traveling India, with ease.",
+      "telugu": "భారతదేశంలో ప్రయాణం, సులభంగా.",
+      "transliteration": "bharatadeshamlo prayanam, sulabhamga.",
+      "category": "Purpose",
+      "generated_at": "2026-05-02T19:58:38.136029"
+    },
+    {
+      "english": "Making friends, Telugu helps.",
+      "telugu": "స్నేహితులను చేసుకోవడం, తెలుగు సహాయపడుతుంది.",
+      "transliteration": "snehithulanu chesukovadam, telugu sahayapadutundi.",
+      "category": "Purpose",
+      "generated_at": "2026-05-02T19:58:38.136030"
+    },
+    {
+      "english": "Understanding stories, in Telugu.",
+      "telugu": "కథలను అర్థం చేసుకోవడం, తెలుగులో.",
+      "transliteration": "kathalanu artham chesukovadam, telugulo.",
+      "category": "Purpose",
+      "generated_at": "2026-05-02T19:58:38.136031"
     }
   ],
-  "last_updated": "2026-05-02T16:33:15.059901"
+  "last_updated": "2026-05-02T19:58:38.136033"
 }
