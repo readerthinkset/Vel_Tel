@@ -419,7 +419,42 @@
       "transliteration": "mee telugu prayanam, eeroju modalavutundi.",
       "category": "Motivation",
       "generated_at": "2026-05-02T14:42:19.488399"
+    },
+    {
+      "english": "Now, let's go.",
+      "telugu": "ఇప్పుడు, వెళ్దాం.",
+      "transliteration": "ippudu, veldam.",
+      "category": "Time Telugu",
+      "generated_at": "2026-05-02T16:33:15.059885"
+    },
+    {
+      "english": "In a little while.",
+      "telugu": "కొంచెం సేపట్లో.",
+      "transliteration": "konchem sepatlo.",
+      "category": "Time Telugu",
+      "generated_at": "2026-05-02T16:33:15.059895"
+    },
+    {
+      "english": "Later, okay?",
+      "telugu": "తర్వాత, సరేనా?",
+      "transliteration": "taruvata, sarena?",
+      "category": "Time Telugu",
+      "generated_at": "2026-05-02T16:33:15.059897"
+    },
+    {
+      "english": "Is it time?",
+      "telugu": "సమయం అయిందా?",
+      "transliteration": "samayam ayinda?",
+      "category": "Time Telugu",
+      "generated_at": "2026-05-02T16:33:15.059898"
+    },
+    {
+      "english": "Not yet, wait.",
+      "telugu": "ఇంకా లేదు, ఆగు.",
+      "transliteration": "inka ledu, aagu.",
+      "category": "Time Telugu",
+      "generated_at": "2026-05-02T16:33:15.059899"
     }
   ],
-  "last_updated": "2026-05-02T14:42:19.488401"
+  "last_updated": "2026-05-02T16:33:15.059901"
 }
