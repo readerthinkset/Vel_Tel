@@ -489,7 +489,42 @@
       "transliteration": "kathalanu artham chesukovadam, telugulo.",
       "category": "Purpose",
       "generated_at": "2026-05-02T19:58:38.136031"
+    },
+    {
+      "english": "Help me, please.",
+      "telugu": "నాకు సహాయం చెయ్యండి, దయచేసి.",
+      "transliteration": "naaku sahaayam cheyyandi, dayachesi.",
+      "category": "Emergency Telugu",
+      "generated_at": "2026-05-03T07:32:21.299997"
+    },
+    {
+      "english": "I need a doctor, fast.",
+      "telugu": "నాకు డాక్టర్ కావాలి, త్వరగా.",
+      "transliteration": "naaku doctor kaavaali, tvaragaa.",
+      "category": "Emergency Telugu",
+      "generated_at": "2026-05-03T07:32:21.300008"
+    },
+    {
+      "english": "Where is the hospital?",
+      "telugu": "ఆసుపత్రి ఎక్కడ ఉంది?",
+      "transliteration": "aasupatri ekkada undi?",
+      "category": "Emergency Telugu",
+      "generated_at": "2026-05-03T07:32:21.300009"
+    },
+    {
+      "english": "Call the police, now.",
+      "telugu": "పోలీసులను పిలవండి, ఇప్పుడే.",
+      "transliteration": "policelanu pilavandi, ippude.",
+      "category": "Emergency Telugu",
+      "generated_at": "2026-05-03T07:32:21.300010"
+    },
+    {
+      "english": "I am lost.",
+      "telugu": "నేను దారి తప్పిపోయాను.",
+      "transliteration": "nenu daari tappipoyaanu.",
+      "category": "Emergency Telugu",
+      "generated_at": "2026-05-03T07:32:21.300011"
     }
   ],
-  "last_updated": "2026-05-02T19:58:38.136033"
+  "last_updated": "2026-05-03T07:32:21.300013"
 }
