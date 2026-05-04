@@ -734,7 +734,42 @@
       "transliteration": "nerchukune prayananni aanandinchandi.",
       "category": "Inspiration",
       "generated_at": "2026-05-04T17:19:41.502505"
+    },
+    {
+      "english": "One, two, three, go!",
+      "telugu": "ఒకటి, రెండు, మూడు, వెళ్ళు!",
+      "transliteration": "okati, rendu, moodu, vellu!",
+      "category": "Numbers Telugu",
+      "generated_at": "2026-05-04T19:08:06.434656"
+    },
+    {
+      "english": "Need five, please.",
+      "telugu": "ఐదు కావాలి, దయచేసి.",
+      "transliteration": "aidu kaavaali, dayachesi.",
+      "category": "Numbers Telugu",
+      "generated_at": "2026-05-04T19:08:06.434668"
+    },
+    {
+      "english": "How many? Seven?",
+      "telugu": "ఎన్ని? ఏడు?",
+      "transliteration": "enni? edu?",
+      "category": "Numbers Telugu",
+      "generated_at": "2026-05-04T19:08:06.434670"
+    },
+    {
+      "english": "Just one, thanks.",
+      "telugu": "ఒక్కటే, ధన్యవాదాలు.",
+      "transliteration": "okkate, dhanyavaadaalu.",
+      "category": "Numbers Telugu",
+      "generated_at": "2026-05-04T19:08:06.434671"
+    },
+    {
+      "english": "Two more, please.",
+      "telugu": "ఇంకా రెండు, దయచేసి.",
+      "transliteration": "inkaa rendu, dayachesi.",
+      "category": "Numbers Telugu",
+      "generated_at": "2026-05-04T19:08:06.434673"
     }
   ],
-  "last_updated": "2026-05-04T17:19:41.502507"
+  "last_updated": "2026-05-04T19:08:06.434675"
 }
