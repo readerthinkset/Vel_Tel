@@ -1014,7 +1014,42 @@
       "transliteration": "Prati roju oka avakaasham, edagadaaniki.",
       "category": "Success",
       "generated_at": "2026-05-05T23:16:05.898998"
+    },
+    {
+      "english": "Hello, where is the station?",
+      "telugu": "నమస్కారం, స్టేషన్ ఎక్కడ ఉంది?",
+      "transliteration": "namaskaram, station ekkada undi?",
+      "category": "Travel Telugu",
+      "generated_at": "2026-05-06T17:20:00.638262"
+    },
+    {
+      "english": "Can I have water, please?",
+      "telugu": "దయచేసి, నాకు నీళ్లు కావాలి.",
+      "transliteration": "dayachesi, naku neellu kavali.",
+      "category": "Travel Telugu",
+      "generated_at": "2026-05-06T17:20:00.638270"
+    },
+    {
+      "english": "How much is this?",
+      "telugu": "దీని ధర ఎంత?",
+      "transliteration": "deeni dhara entha?",
+      "category": "Travel Telugu",
+      "generated_at": "2026-05-06T17:20:00.638272"
+    },
+    {
+      "english": "My hotel is here.",
+      "telugu": "నా హోటల్ ఇక్కడే ఉంది.",
+      "transliteration": "naa hotel ikkade undi.",
+      "category": "Travel Telugu",
+      "generated_at": "2026-05-06T17:20:00.638273"
+    },
+    {
+      "english": "I need a taxi.",
+      "telugu": "నాకు టాక్సీ కావాలి.",
+      "transliteration": "naku taxi kavali.",
+      "category": "Travel Telugu",
+      "generated_at": "2026-05-06T17:20:00.638274"
     }
   ],
-  "last_updated": "2026-05-05T23:16:05.898999"
+  "last_updated": "2026-05-06T17:20:00.638276"
 }
