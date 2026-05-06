@@ -1084,7 +1084,42 @@
       "transliteration": "daya panchu, utsaaham nimpu.",
       "category": "Happiness",
       "generated_at": "2026-05-06T19:18:59.516039"
+    },
+    {
+      "english": "Thank you very much.",
+      "telugu": "చాలా ధన్యవాదాలు.",
+      "transliteration": "chala dhanyavadaalu.",
+      "category": "Common Expressions",
+      "generated_at": "2026-05-06T21:26:24.820444"
+    },
+    {
+      "english": "Excuse me, please.",
+      "telugu": "దయచేసి, క్షమించండి.",
+      "transliteration": "dayachesi, kshaminchandi.",
+      "category": "Common Expressions",
+      "generated_at": "2026-05-06T21:26:24.820453"
+    },
+    {
+      "english": "I don't understand.",
+      "telugu": "నాకు అర్థం కాలేదు.",
+      "transliteration": "naku ardham kaaledu.",
+      "category": "Common Expressions",
+      "generated_at": "2026-05-06T21:26:24.820454"
+    },
+    {
+      "english": "Can you help me?",
+      "telugu": "మీరు నాకు సహాయం చేస్తారా?",
+      "transliteration": "meeru naku sahayam chestara?",
+      "category": "Common Expressions",
+      "generated_at": "2026-05-06T21:26:24.820455"
+    },
+    {
+      "english": "What is your name?",
+      "telugu": "మీ పేరు ఏమిటి?",
+      "transliteration": "mee peru emiti?",
+      "category": "Common Expressions",
+      "generated_at": "2026-05-06T21:26:24.820457"
     }
   ],
-  "last_updated": "2026-05-06T19:18:59.516044"
+  "last_updated": "2026-05-06T21:26:24.820458"
 }
