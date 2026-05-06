@@ -1119,7 +1119,42 @@
       "transliteration": "mee peru emiti?",
       "category": "Common Expressions",
       "generated_at": "2026-05-06T21:26:24.820457"
+    },
+    {
+      "english": "Excuse me, sorry.",
+      "telugu": "క్షమించండి, మన్నించండి.",
+      "transliteration": "kshamimchandi, manninchandi.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-05-06T22:35:54.492351"
+    },
+    {
+      "english": "Yes, I understand.",
+      "telugu": "అవును, నాకు అర్థమైంది.",
+      "transliteration": "avunu, naku arthamaindi.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-05-06T22:35:54.492361"
+    },
+    {
+      "english": "No, I don't know.",
+      "telugu": "లేదు, నాకు తెలియదు.",
+      "transliteration": "ledu, naku teliyadu.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-05-06T22:35:54.492362"
+    },
+    {
+      "english": "See you, later.",
+      "telugu": "తర్వాత, కలుద్దాం.",
+      "transliteration": "taruvata, kaluddam.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-05-06T22:35:54.492364"
+    },
+    {
+      "english": "Good morning, to you.",
+      "telugu": "శుభోదయం, మీకు.",
+      "transliteration": "shubhodayam, meeku.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-05-06T22:35:54.492365"
     }
   ],
-  "last_updated": "2026-05-06T21:26:24.820458"
+  "last_updated": "2026-05-06T22:35:54.492367"
 }
