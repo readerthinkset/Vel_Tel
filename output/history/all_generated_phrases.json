@@ -1189,7 +1189,42 @@
       "transliteration": "repu baaguntundi.",
       "category": "Hope",
       "generated_at": "2026-05-07T09:48:15.703506"
+    },
+    {
+      "english": "Very soon, I hope.",
+      "telugu": "త్వరలోనే, ఆశిస్తున్నాను.",
+      "transliteration": "tvaralone, aashistunnanu.",
+      "category": "Time Telugu",
+      "generated_at": "2026-05-07T19:58:28.984461"
+    },
+    {
+      "english": "This is the time.",
+      "telugu": "ఇదే సరైన సమయం.",
+      "transliteration": "ide saraina samayam.",
+      "category": "Time Telugu",
+      "generated_at": "2026-05-07T19:58:28.984469"
+    },
+    {
+      "english": "What time is it?",
+      "telugu": "ఎంత సమయం?",
+      "transliteration": "enta samayam?",
+      "category": "Time Telugu",
+      "generated_at": "2026-05-07T19:58:28.984470"
+    },
+    {
+      "english": "It's already late.",
+      "telugu": "ఇప్పటికే ఆలస్యం.",
+      "transliteration": "ippatike aalasyam.",
+      "category": "Time Telugu",
+      "generated_at": "2026-05-07T19:58:28.984472"
+    },
+    {
+      "english": "Let's do it now.",
+      "telugu": "ఇప్పుడే చేద్దాం.",
+      "transliteration": "ippude cheddam.",
+      "category": "Time Telugu",
+      "generated_at": "2026-05-07T19:58:28.984473"
     }
   ],
-  "last_updated": "2026-05-07T09:48:15.703508"
+  "last_updated": "2026-05-07T19:58:28.984474"
 }
