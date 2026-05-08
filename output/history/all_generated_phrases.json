@@ -1329,7 +1329,42 @@
       "transliteration": "opika pattandi, dashalavariga nerchukondi",
       "category": "Confidence",
       "generated_at": "2026-05-08T06:37:07.323459"
+    },
+    {
+      "english": "Speak slowly, speak clearly.",
+      "telugu": "నెమ్మదిగా మాట్లాడండి, స్పష్టంగా మాట్లాడండి.",
+      "transliteration": "nemmadiga matladandi, spashtanga matladandi.",
+      "category": "Motivation",
+      "generated_at": "2026-05-08T18:55:11.447008"
+    },
+    {
+      "english": "Telugu is beautiful, embrace it.",
+      "telugu": "తెలుగు అందమైనది, దానిని స్వీకరించండి.",
+      "transliteration": "telugu andamainadi, daanini sveekarinchandi.",
+      "category": "Motivation",
+      "generated_at": "2026-05-08T18:55:11.447016"
+    },
+    {
+      "english": "Listen more, speak more.",
+      "telugu": "ఎక్కువ వినండి, ఎక్కువ మాట్లాడండి.",
+      "transliteration": "ekkuva vinandi, ekkuva matladandi.",
+      "category": "Motivation",
+      "generated_at": "2026-05-08T18:55:11.447017"
+    },
+    {
+      "english": "Each day, a little more Telugu.",
+      "telugu": "ప్రతి రోజు, కొంచెం ఎక్కువ తెలుగు.",
+      "transliteration": "prati roju, konchem ekkuva telugu.",
+      "category": "Motivation",
+      "generated_at": "2026-05-08T18:55:11.447019"
+    },
+    {
+      "english": "You can do this, keep going.",
+      "telugu": "మీరు చేయగలరు, కొనసాగించండి.",
+      "transliteration": "meeru cheyagalaru, konasaginchandi.",
+      "category": "Motivation",
+      "generated_at": "2026-05-08T18:55:11.447020"
     }
   ],
-  "last_updated": "2026-05-08T06:37:07.323461"
+  "last_updated": "2026-05-08T18:55:11.447021"
 }
