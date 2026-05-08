@@ -1294,7 +1294,42 @@
       "transliteration": "Eppatiki, neethone.",
       "category": "Love",
       "generated_at": "2026-05-07T23:15:50.968340"
+    },
+    {
+      "english": "Speak slowly, I will understand.",
+      "telugu": "నెమ్మదిగా మాట్లాడండి, నాకు అర్థమవుతుంది.",
+      "transliteration": "nemmadiga matladandi, naaku arthamavutundi",
+      "category": "Confidence",
+      "generated_at": "2026-05-08T06:37:07.323444"
+    },
+    {
+      "english": "Try again, you can do it.",
+      "telugu": "మళ్ళీ ప్రయత్నించండి, మీరు చేయగలరు.",
+      "transliteration": "malli prayatninchandi, meeru cheyagalaru",
+      "category": "Confidence",
+      "generated_at": "2026-05-08T06:37:07.323455"
+    },
+    {
+      "english": "Don't worry, practice helps.",
+      "telugu": "చింతించకండి, సాధన సహాయపడుతుంది.",
+      "transliteration": "chintinchakandi, sadhana sahayapadutundi",
+      "category": "Confidence",
+      "generated_at": "2026-05-08T06:37:07.323457"
+    },
+    {
+      "english": "Every word, counts.",
+      "telugu": "ప్రతి మాట, లెక్కలోకి వస్తుంది.",
+      "transliteration": "prati mata, lekkaloki vastundi",
+      "category": "Confidence",
+      "generated_at": "2026-05-08T06:37:07.323458"
+    },
+    {
+      "english": "Be patient, learn step by step.",
+      "telugu": "ఓపిక పట్టండి, దశలవారీగా నేర్చుకోండి.",
+      "transliteration": "opika pattandi, dashalavariga nerchukondi",
+      "category": "Confidence",
+      "generated_at": "2026-05-08T06:37:07.323459"
     }
   ],
-  "last_updated": "2026-05-07T23:15:50.968341"
+  "last_updated": "2026-05-08T06:37:07.323461"
 }
