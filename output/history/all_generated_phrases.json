@@ -1574,7 +1574,42 @@
       "transliteration": "neeku, aanandam dakkutundi.",
       "category": "Happiness",
       "generated_at": "2026-05-10T20:05:19.907754"
+    },
+    {
+      "english": "Fire! Fire!",
+      "telugu": "నిప్పు! నిప్పు!",
+      "transliteration": "nippu! nippu!",
+      "category": "Emergency Telugu",
+      "generated_at": "2026-05-12T10:55:12.345641"
+    },
+    {
+      "english": "Stop! Stop!",
+      "telugu": "ఆగండి! ఆగండి!",
+      "transliteration": "aagandi! aagandi!",
+      "category": "Emergency Telugu",
+      "generated_at": "2026-05-12T10:55:12.345651"
+    },
+    {
+      "english": "I am hurt.",
+      "telugu": "నాకు దెబ్బ తగిలింది.",
+      "transliteration": "naaku debba tagilindi.",
+      "category": "Emergency Telugu",
+      "generated_at": "2026-05-12T10:55:12.345652"
+    },
+    {
+      "english": "Is anyone there?",
+      "telugu": "ఎవరైనా ఉన్నారా?",
+      "transliteration": "evarainaa unnaaraa?",
+      "category": "Emergency Telugu",
+      "generated_at": "2026-05-12T10:55:12.345654"
+    },
+    {
+      "english": "I need water.",
+      "telugu": "నాకు నీళ్లు కావాలి.",
+      "transliteration": "naaku neellu kaavaali.",
+      "category": "Emergency Telugu",
+      "generated_at": "2026-05-12T10:55:12.345655"
     }
   ],
-  "last_updated": "2026-05-10T20:05:19.907756"
+  "last_updated": "2026-05-12T10:55:12.345656"
 }
