@@ -1609,7 +1609,42 @@
       "transliteration": "naaku neellu kaavaali.",
       "category": "Emergency Telugu",
       "generated_at": "2026-05-12T10:55:12.345655"
+    },
+    {
+      "english": "Please, forgive me.",
+      "telugu": "దయచేసి, నన్ను క్షమించండి.",
+      "transliteration": "Dayachesi, nannu kshaminchandi.",
+      "category": "Forgiveness",
+      "generated_at": "2026-05-12T19:34:51.038572"
+    },
+    {
+      "english": "I am sorry, truly.",
+      "telugu": "నేను క్షమించండి, నిజంగా.",
+      "transliteration": "Nenu kshaminchandi, nijanga.",
+      "category": "Forgiveness",
+      "generated_at": "2026-05-12T19:34:51.038582"
+    },
+    {
+      "english": "Can you forgive this?",
+      "telugu": "దీన్ని క్షమించగలరా?",
+      "transliteration": "Deenni kshaminchagalara?",
+      "category": "Forgiveness",
+      "generated_at": "2026-05-12T19:34:51.038584"
+    },
+    {
+      "english": "Let's forget, okay?",
+      "telugu": "మర్చిపోదాం, సరేనా?",
+      "transliteration": "Marchipodam, sarena?",
+      "category": "Forgiveness",
+      "generated_at": "2026-05-12T19:34:51.038585"
+    },
+    {
+      "english": "It was my mistake.",
+      "telugu": "అది నా తప్పే.",
+      "transliteration": "Adi na thappe.",
+      "category": "Forgiveness",
+      "generated_at": "2026-05-12T19:34:51.038587"
     }
   ],
-  "last_updated": "2026-05-12T10:55:12.345656"
+  "last_updated": "2026-05-12T19:34:51.038589"
 }
