@@ -1644,7 +1644,42 @@
       "transliteration": "Adi na thappe.",
       "category": "Forgiveness",
       "generated_at": "2026-05-12T19:34:51.038587"
+    },
+    {
+      "english": "My mother, she is kind.",
+      "telugu": "మా అమ్మ, దయగలది.",
+      "transliteration": "maa amma, dayagaladi.",
+      "category": "Family Terms",
+      "generated_at": "2026-05-13T21:59:29.764057"
+    },
+    {
+      "english": "Your father, he is here.",
+      "telugu": "మీ నాన్న, ఇక్కడ ఉన్నారు.",
+      "transliteration": "mee naanna, ikkada unnaru.",
+      "category": "Family Terms",
+      "generated_at": "2026-05-13T21:59:29.764066"
+    },
+    {
+      "english": "My brother, he is young.",
+      "telugu": "మా అన్నయ్య, చిన్నవాడు.",
+      "transliteration": "maa annayya, chinnavadu.",
+      "category": "Family Terms",
+      "generated_at": "2026-05-13T21:59:29.764067"
+    },
+    {
+      "english": "My sister, she is smart.",
+      "telugu": "మా చెల్లి, తెలివైనది.",
+      "transliteration": "maa chelli, telivainadi.",
+      "category": "Family Terms",
+      "generated_at": "2026-05-13T21:59:29.764069"
+    },
+    {
+      "english": "Grandmother, she cooks well.",
+      "telugu": "అమ్మమ్మ, బాగా వండుతుంది.",
+      "transliteration": "ammamma, baaga vandutundi.",
+      "category": "Family Terms",
+      "generated_at": "2026-05-13T21:59:29.764070"
     }
   ],
-  "last_updated": "2026-05-12T19:34:51.038589"
+  "last_updated": "2026-05-13T21:59:29.764071"
 }
