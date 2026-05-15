@@ -1714,7 +1714,42 @@
       "transliteration": "puttinaroju shubhaakaankshalu, priya mitramaa.",
       "category": "Friendship",
       "generated_at": "2026-05-14T23:14:30.430583"
+    },
+    {
+      "english": "I will take this., thank you.",
+      "telugu": "నేను ఇది తీసుకుంటాను., ధన్యవాదాలు.",
+      "transliteration": "nenu idi theesukuntaanu., dhanyavaadaalu.",
+      "category": "Shopping Telugu",
+      "generated_at": "2026-05-15T17:17:35.087956"
+    },
+    {
+      "english": "Can I pay?, by card?",
+      "telugu": "నేను కార్డుతో చెల్లించవచ్చా?,?",
+      "transliteration": "nenu kaardutho chellinchavachhaa?,?",
+      "category": "Shopping Telugu",
+      "generated_at": "2026-05-15T17:17:35.087966"
+    },
+    {
+      "english": "This is too expensive., for me.",
+      "telugu": "ఇది చాలా ఖరీదైనది., నాకు.",
+      "transliteration": "idi chaalaa khareedainadhi., naaku.",
+      "category": "Shopping Telugu",
+      "generated_at": "2026-05-15T17:17:35.087968"
+    },
+    {
+      "english": "Can you wrap?, this as a gift?",
+      "telugu": "దీన్ని బహుమతిగా చుట్టగలరా?,?",
+      "transliteration": "deenni bahumathigaa chuttagalaraa?,?",
+      "category": "Shopping Telugu",
+      "generated_at": "2026-05-15T17:17:35.087969"
+    },
+    {
+      "english": "I am just looking., thank you.",
+      "telugu": "నేను చూస్తున్నాను., మాత్రమే. ధన్యవాదాలు.",
+      "transliteration": "nenu choosthunnaanu., maatrame. dhanyavaadaalu.",
+      "category": "Shopping Telugu",
+      "generated_at": "2026-05-15T17:17:35.087970"
     }
   ],
-  "last_updated": "2026-05-14T23:14:30.430585"
+  "last_updated": "2026-05-15T17:17:35.087972"
 }
