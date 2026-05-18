@@ -1819,7 +1819,42 @@
       "transliteration": "idi maa kutumbam, eppudu kalise untundi.",
       "category": "Family Terms",
       "generated_at": "2026-05-17T15:44:22.471451"
+    },
+    {
+      "english": "You are learning, very well.",
+      "telugu": "మీరు నేర్చుకుంటున్నారు, చాలా బాగా.",
+      "transliteration": "meeru nerchukuntunnaru, chala baga",
+      "category": "Confidence",
+      "generated_at": "2026-05-18T23:45:59.797254"
+    },
+    {
+      "english": "Ask questions, always.",
+      "telugu": "ప్రశ్నలు అడగండి, ఎల్లప్పుడూ.",
+      "transliteration": "prashnalu adagandi, ellappudu",
+      "category": "Confidence",
+      "generated_at": "2026-05-18T23:45:59.797263"
+    },
+    {
+      "english": "Listen carefully, then speak.",
+      "telugu": "శ్రద్ధగా వినండి, తర్వాత మాట్లాడండి.",
+      "transliteration": "shraddhaga vinandi, tarvata matladandi",
+      "category": "Confidence",
+      "generated_at": "2026-05-18T23:45:59.797265"
+    },
+    {
+      "english": "Mistakes are okay, they teach.",
+      "telugu": "తప్పులు ఫర్వాలేదు, అవి నేర్పిస్తాయి.",
+      "transliteration": "tappulu parvaledu, avi nerpistayi",
+      "category": "Confidence",
+      "generated_at": "2026-05-18T23:45:59.797266"
+    },
+    {
+      "english": "Your effort, is noticed.",
+      "telugu": "మీ ప్రయత్నం, గుర్తించబడుతోంది.",
+      "transliteration": "mee prayatnam, gurtinchabadutondi",
+      "category": "Confidence",
+      "generated_at": "2026-05-18T23:45:59.797267"
     }
   ],
-  "last_updated": "2026-05-17T15:44:22.471453"
+  "last_updated": "2026-05-18T23:45:59.797269"
 }
