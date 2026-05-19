@@ -1889,7 +1889,42 @@
       "transliteration": "oka kaalu paiki, jagrattaga.",
       "category": "Balance",
       "generated_at": "2026-05-19T11:44:06.561997"
+    },
+    {
+      "english": "How is your day?",
+      "telugu": "ఈరోజు ఎలా గడిచింది?",
+      "transliteration": "ee roju ela gadichindi?",
+      "category": "Greetings",
+      "generated_at": "2026-05-19T20:18:45.636208"
+    },
+    {
+      "english": "Hope you are well.",
+      "telugu": "మీరు బాగున్నారని ఆశిస్తున్నాను.",
+      "transliteration": "meeru bagunnarani aashisthunnanu.",
+      "category": "Greetings",
+      "generated_at": "2026-05-19T20:18:45.636217"
+    },
+    {
+      "english": "Hello, what's new?",
+      "telugu": "హలో, కొత్త విశేషాలు ఏమిటి?",
+      "transliteration": "hello, kotha visheshalu emiti?",
+      "category": "Greetings",
+      "generated_at": "2026-05-19T20:18:45.636219"
+    },
+    {
+      "english": "Greetings, have a nice day.",
+      "telugu": "శుభాకాంక్షలు, ఈ రోజు బాగుండాలి.",
+      "transliteration": "shubhakankshalu, ee roju bagundali.",
+      "category": "Greetings",
+      "generated_at": "2026-05-19T20:18:45.636220"
+    },
+    {
+      "english": "Hello, see you later.",
+      "telugu": "నమస్కారం, మళ్ళీ కలుద్దాం.",
+      "transliteration": "namaskaram, malli kaluddam.",
+      "category": "Greetings",
+      "generated_at": "2026-05-19T20:18:45.636221"
     }
   ],
-  "last_updated": "2026-05-19T11:44:06.561999"
+  "last_updated": "2026-05-19T20:18:45.636223"
 }
