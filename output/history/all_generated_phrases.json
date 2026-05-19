@@ -1854,7 +1854,42 @@
       "transliteration": "mee prayatnam, gurtinchabadutondi",
       "category": "Confidence",
       "generated_at": "2026-05-18T23:45:59.797267"
+    },
+    {
+      "english": "Steady, now. Breathe.",
+      "telugu": "నెమ్మదిగా, ఇప్పుడు. ఊపిరి తీసుకోండి.",
+      "transliteration": "nemmadiga, ippudu. oopiri theesukondi.",
+      "category": "Balance",
+      "generated_at": "2026-05-19T11:44:06.561983"
+    },
+    {
+      "english": "Find your center, please.",
+      "telugu": "మీ కేంద్రాన్ని కనుగొనండి, దయచేసి.",
+      "transliteration": "mee kendranni kanugonandi, dayachesi.",
+      "category": "Balance",
+      "generated_at": "2026-05-19T11:44:06.561992"
+    },
+    {
+      "english": "Hold still, just like that.",
+      "telugu": "కదలకుండా ఉండండి, అలాగే.",
+      "transliteration": "kadalakunda undandi, alage.",
+      "category": "Balance",
+      "generated_at": "2026-05-19T11:44:06.561993"
+    },
+    {
+      "english": "Slowly, lower your arms.",
+      "telugu": "మెల్లగా, మీ చేతులు దించండి.",
+      "transliteration": "mellaga, mee chethulu dinchandi.",
+      "category": "Balance",
+      "generated_at": "2026-05-19T11:44:06.561995"
+    },
+    {
+      "english": "One leg up, carefully.",
+      "telugu": "ఒక కాలు పైకి, జాగ్రత్తగా.",
+      "transliteration": "oka kaalu paiki, jagrattaga.",
+      "category": "Balance",
+      "generated_at": "2026-05-19T11:44:06.561997"
     }
   ],
-  "last_updated": "2026-05-18T23:45:59.797269"
+  "last_updated": "2026-05-19T11:44:06.561999"
 }
