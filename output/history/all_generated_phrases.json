@@ -1924,7 +1924,42 @@
       "transliteration": "namaskaram, malli kaluddam.",
       "category": "Greetings",
       "generated_at": "2026-05-19T20:18:45.636221"
+    },
+    {
+      "english": "Breathe in, breathe out, peace.",
+      "telugu": "శ్వాస తీసుకో, వదులు, ప్రశాంతత.",
+      "transliteration": "shvaasa teesuko, vadulu, prashaanthata.",
+      "category": "Mindfulness",
+      "generated_at": "2026-05-20T19:57:25.979370"
+    },
+    {
+      "english": "Feel the moment, fully present.",
+      "telugu": "క్షణం అనుభవించు, పూర్తిగా ఇక్కడ.",
+      "transliteration": "kshanam anubhavinchu, poorthigaa ikkada.",
+      "category": "Mindfulness",
+      "generated_at": "2026-05-20T19:57:25.979380"
+    },
+    {
+      "english": "Calm mind, clear thoughts.",
+      "telugu": "శాంత మనసు, స్పష్ట ఆలోచనలు.",
+      "transliteration": "shaantha manasu, spashta aalochanalu.",
+      "category": "Mindfulness",
+      "generated_at": "2026-05-20T19:57:25.979382"
+    },
+    {
+      "english": "Let go, gently release.",
+      "telugu": "వదిలేయి, మెల్లగా వదులు.",
+      "transliteration": "vadileyi, mellagaa vadulu.",
+      "category": "Mindfulness",
+      "generated_at": "2026-05-20T19:57:25.979383"
+    },
+    {
+      "english": "Listen within, true silence.",
+      "telugu": "లోపల విను, నిజమైన నిశ్శబ్దం.",
+      "transliteration": "lopala vinu, nijamaina nishshabdam.",
+      "category": "Mindfulness",
+      "generated_at": "2026-05-20T19:57:25.979384"
     }
   ],
-  "last_updated": "2026-05-19T20:18:45.636223"
+  "last_updated": "2026-05-20T19:57:25.979386"
 }
