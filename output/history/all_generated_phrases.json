@@ -1959,7 +1959,42 @@
       "transliteration": "lopala vinu, nijamaina nishshabdam.",
       "category": "Mindfulness",
       "generated_at": "2026-05-20T19:57:25.979384"
+    },
+    {
+      "english": "How much is this, please?",
+      "telugu": "ఇది ఎంత, దయచేసి?",
+      "transliteration": "Idi entha, dayachesi?",
+      "category": "Shopping Telugu",
+      "generated_at": "2026-05-21T18:30:37.416333"
+    },
+    {
+      "english": "I want to buy this, quickly.",
+      "telugu": "నేను ఇది కొనాలనుకుంటున్నాను, త్వరగా.",
+      "transliteration": "Nenu idi konalanukuntunnanu, tvaraga.",
+      "category": "Shopping Telugu",
+      "generated_at": "2026-05-21T18:30:37.416342"
+    },
+    {
+      "english": "Do you have, that color?",
+      "telugu": "మీ దగ్గర, ఆ రంగు ఉందా?",
+      "transliteration": "Mee daggara, aa rangu unda?",
+      "category": "Shopping Telugu",
+      "generated_at": "2026-05-21T18:30:37.416343"
+    },
+    {
+      "english": "Can I see, another one?",
+      "telugu": "నేను ఇంకొకటి, చూడగలనా?",
+      "transliteration": "Nenu inkokati, chudagalana?",
+      "category": "Shopping Telugu",
+      "generated_at": "2026-05-21T18:30:37.416344"
+    },
+    {
+      "english": "This is too expensive, sorry.",
+      "telugu": "ఇది చాలా ఖరీదు, క్షమించండి.",
+      "transliteration": "Idi chala khareedu, kshaminchandi.",
+      "category": "Shopping Telugu",
+      "generated_at": "2026-05-21T18:30:37.416345"
     }
   ],
-  "last_updated": "2026-05-20T19:57:25.979386"
+  "last_updated": "2026-05-21T18:30:37.416346"
 }
