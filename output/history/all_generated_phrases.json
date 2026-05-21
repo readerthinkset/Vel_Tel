@@ -2064,7 +2064,42 @@
       "transliteration": "Idi kaaranga, leda takkuvaga undaa?",
       "category": "Restaurant Telugu",
       "generated_at": "2026-05-21T22:06:59.064880"
+    },
+    {
+      "english": "Help! I need assistance, please.",
+      "telugu": "సహాయం చేయండి! నాకు సహాయం కావాలి, దయచేసి.",
+      "transliteration": "Sahayam cheyandi! Naku sahayam kavali, dayachesi.",
+      "category": "Emergency Telugu",
+      "generated_at": "2026-05-21T23:39:27.692882"
+    },
+    {
+      "english": "Call for help, quickly!",
+      "telugu": "సహాయం కోసం పిలవండి, త్వరగా!",
+      "transliteration": "Sahayam kosam pilavandi, tvaraga!",
+      "category": "Emergency Telugu",
+      "generated_at": "2026-05-21T23:39:27.692892"
+    },
+    {
+      "english": "Is there a doctor, nearby?",
+      "telugu": "వైద్యులు ఉన్నారా, దగ్గరలో?",
+      "transliteration": "Vaidyulu unnara, daggaralo?",
+      "category": "Emergency Telugu",
+      "generated_at": "2026-05-21T23:39:27.692893"
+    },
+    {
+      "english": "I am lost, can you help?",
+      "telugu": "నేను దారి తప్పాను, మీరు సహాయం చేయగలరా?",
+      "transliteration": "Nenu dari tappanu, meeru sahayam cheyagalara?",
+      "category": "Emergency Telugu",
+      "generated_at": "2026-05-21T23:39:27.692894"
+    },
+    {
+      "english": "I need a police station, urgently.",
+      "telugu": "నాకు పోలీస్ స్టేషన్ కావాలి, వెంటనే.",
+      "transliteration": "Naku police station kavali, ventane.",
+      "category": "Emergency Telugu",
+      "generated_at": "2026-05-21T23:39:27.692895"
     }
   ],
-  "last_updated": "2026-05-21T22:06:59.064882"
+  "last_updated": "2026-05-21T23:39:27.692896"
 }
