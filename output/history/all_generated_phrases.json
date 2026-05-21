@@ -2029,7 +2029,42 @@
       "transliteration": "manam kotthaga prarambhimchavacchu.",
       "category": "Forgiveness",
       "generated_at": "2026-05-21T20:27:07.213862"
+    },
+    {
+      "english": "Hello, what's on the menu?",
+      "telugu": "నమస్కారం, మెనూ ఏమిటి?",
+      "transliteration": "Namaskaram, menu emiti?",
+      "category": "Restaurant Telugu",
+      "generated_at": "2026-05-21T22:06:59.064866"
+    },
+    {
+      "english": "Can I have, a table for two?",
+      "telugu": "నాకు, ఇద్దరికి ఒక టేబుల్ కావాలి.",
+      "transliteration": "Naaku, iddariki oka table kaavali.",
+      "category": "Restaurant Telugu",
+      "generated_at": "2026-05-21T22:06:59.064875"
+    },
+    {
+      "english": "What do you recommend, please?",
+      "telugu": "మీరు ఏమి సిఫార్సు చేస్తారు, దయచేసి?",
+      "transliteration": "Meeru emi siphaarsu chestaaru, dayachesi?",
+      "category": "Restaurant Telugu",
+      "generated_at": "2026-05-21T22:06:59.064876"
+    },
+    {
+      "english": "I'd like, some water, please.",
+      "telugu": "నాకు, కొంచెం నీళ్ళు, దయచేసి.",
+      "transliteration": "Naaku, konchem neellu, dayachesi.",
+      "category": "Restaurant Telugu",
+      "generated_at": "2026-05-21T22:06:59.064879"
+    },
+    {
+      "english": "Is this spicy, or mild?",
+      "telugu": "ఇది కారంగా, లేదా తక్కువగా ఉందా?",
+      "transliteration": "Idi kaaranga, leda takkuvaga undaa?",
+      "category": "Restaurant Telugu",
+      "generated_at": "2026-05-21T22:06:59.064880"
     }
   ],
-  "last_updated": "2026-05-21T20:27:07.213864"
+  "last_updated": "2026-05-21T22:06:59.064882"
 }
