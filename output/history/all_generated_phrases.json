@@ -2274,7 +2274,42 @@
       "transliteration": "Neevu chese panini, preminchu.",
       "category": "Happiness",
       "generated_at": "2026-05-22T23:48:30.064258"
+    },
+    {
+      "english": "Morning time, fresh start.",
+      "telugu": "ఉదయం పూట, కొత్త ప్రారంభం.",
+      "transliteration": "udayam poota, kotta prarambham",
+      "category": "Time Telugu",
+      "generated_at": "2026-05-23T15:48:46.888687"
+    },
+    {
+      "english": "Later, we will see.",
+      "telugu": "తర్వాత, చూద్దాం.",
+      "transliteration": "taruvata, chuddam",
+      "category": "Time Telugu",
+      "generated_at": "2026-05-23T15:48:46.888697"
+    },
+    {
+      "english": "Yesterday's work, done.",
+      "telugu": "నిన్నటి పని, అయిపోయింది.",
+      "transliteration": "ninnati pani, ayipoyindi",
+      "category": "Time Telugu",
+      "generated_at": "2026-05-23T15:48:46.888699"
+    },
+    {
+      "english": "Tomorrow's plan, ready.",
+      "telugu": "రేపటి ప్రణాళిక, సిద్ధం.",
+      "transliteration": "repati pranalika, siddham",
+      "category": "Time Telugu",
+      "generated_at": "2026-05-23T15:48:46.888700"
+    },
+    {
+      "english": "This time, is good.",
+      "telugu": "ఈ సమయం, బాగుంది.",
+      "transliteration": "ee samayam, bagundi",
+      "category": "Time Telugu",
+      "generated_at": "2026-05-23T15:48:46.888701"
     }
   ],
-  "last_updated": "2026-05-22T23:48:30.064260"
+  "last_updated": "2026-05-23T15:48:46.888703"
 }
