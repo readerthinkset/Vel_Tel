@@ -2309,7 +2309,42 @@
       "transliteration": "ee samayam, bagundi",
       "category": "Time Telugu",
       "generated_at": "2026-05-23T15:48:46.888701"
+    },
+    {
+      "english": "Learn a little, every day.",
+      "telugu": "ప్రతిరోజూ, కొంచెమైనా నేర్చుకో.",
+      "transliteration": "Pratiroju, konchemaina nerchuko.",
+      "category": "Success",
+      "generated_at": "2026-05-23T17:42:31.916619"
+    },
+    {
+      "english": "You are doing great.",
+      "telugu": "నువ్వు బాగా చేస్తున్నావు.",
+      "transliteration": "Nuvvu baaga chestunnaavu.",
+      "category": "Success",
+      "generated_at": "2026-05-23T17:42:31.916630"
+    },
+    {
+      "english": "Focus now, succeed later.",
+      "telugu": "ఇప్పుడు దృష్టి పెట్టు, తర్వాత విజయం.",
+      "transliteration": "Ippudu drushti pettu, taruvata vijayam.",
+      "category": "Success",
+      "generated_at": "2026-05-23T17:42:31.916632"
+    },
+    {
+      "english": "Practice makes perfect.",
+      "telugu": "అభ్యాసం, పరిపూర్ణతను తెస్తుంది.",
+      "transliteration": "Abhyasam, paripurnatanu testundi.",
+      "category": "Success",
+      "generated_at": "2026-05-23T17:42:31.916633"
+    },
+    {
+      "english": "You're on the right path.",
+      "telugu": "నువ్వు సరైన మార్గంలో ఉన్నావు.",
+      "transliteration": "Nuvvu saraina margamlo unnaavu.",
+      "category": "Success",
+      "generated_at": "2026-05-23T17:42:31.916635"
     }
   ],
-  "last_updated": "2026-05-23T15:48:46.888703"
+  "last_updated": "2026-05-23T17:42:31.916636"
 }
