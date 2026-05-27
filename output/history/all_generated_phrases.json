@@ -2449,7 +2449,42 @@
       "transliteration": "jāgrattagā vinaṇḍi, tvaragā meruguparachukōṇḍi.",
       "category": "Purpose",
       "generated_at": "2026-05-27T04:04:12.937482"
+    },
+    {
+      "english": "Wait a little, it will be fine.",
+      "telugu": "కొంచెం ఆగండి, అంతా బాగానే ఉంటుంది.",
+      "transliteration": "Konchem agandi, antha bagane untundi.",
+      "category": "Patience",
+      "generated_at": "2026-05-27T17:21:13.071964"
+    },
+    {
+      "english": "Be patient, good things take time.",
+      "telugu": "ఓపిక పట్టండి, మంచి పనులకు సమయం పడుతుంది.",
+      "transliteration": "Opika pattandi, manchi panulaku samayam padutundi.",
+      "category": "Patience",
+      "generated_at": "2026-05-27T17:21:13.071974"
+    },
+    {
+      "english": "This too shall pass.",
+      "telugu": "ఇది కూడా గడిచిపోతుంది.",
+      "transliteration": "Idi kooda gadichipotundi.",
+      "category": "Patience",
+      "generated_at": "2026-05-27T17:21:13.071975"
+    },
+    {
+      "english": "Take your time, no rush.",
+      "telugu": "మీ సమయం తీసుకోండి, తొందర లేదు.",
+      "transliteration": "Mee samayam theesukondi, tondara ledu.",
+      "category": "Patience",
+      "generated_at": "2026-05-27T17:21:13.071977"
+    },
+    {
+      "english": "Just a little more, hold on.",
+      "telugu": "ఇంకా కొంచెమే, ఆగి ఉండండి.",
+      "transliteration": "Inka konchemē, aagi undandi.",
+      "category": "Patience",
+      "generated_at": "2026-05-27T17:21:13.071978"
     }
   ],
-  "last_updated": "2026-05-27T04:04:12.937483"
+  "last_updated": "2026-05-27T17:21:13.071980"
 }
