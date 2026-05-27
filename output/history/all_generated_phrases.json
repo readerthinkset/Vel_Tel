@@ -2414,7 +2414,42 @@
       "transliteration": "Tappulu metlu laantivi.",
       "category": "Growth",
       "generated_at": "2026-05-23T22:39:09.046177"
+    },
+    {
+      "english": "Learn Telugu, for connection.",
+      "telugu": "తెలుగు నేర్చుకోండి, బంధాల కోసం.",
+      "transliteration": "telugu nērchukōṇḍi, bandhāla kōsam.",
+      "category": "Purpose",
+      "generated_at": "2026-05-27T04:04:12.937467"
+    },
+    {
+      "english": "Speak Telugu, to understand.",
+      "telugu": "తెలుగు మాట్లాడండి, అర్థం చేసుకోవడానికి.",
+      "transliteration": "telugu māṭlāḍaṇḍi, artham chēsukōvaḍāniki.",
+      "category": "Purpose",
+      "generated_at": "2026-05-27T04:04:12.937478"
+    },
+    {
+      "english": "Read Telugu, unlock stories.",
+      "telugu": "తెలుగు చదవండి, కథలు తెరవండి.",
+      "transliteration": "telugu chadavaṇḍi, kathalu teravaṇḍi.",
+      "category": "Purpose",
+      "generated_at": "2026-05-27T04:04:12.937479"
+    },
+    {
+      "english": "Write Telugu, express yourself.",
+      "telugu": "తెలుగు రాయండి, మిమ్మల్ని మీరు వ్యక్తపరచండి.",
+      "transliteration": "telugu rāyaṇḍi, mimmulni mīru vyaktaparachaṇḍi.",
+      "category": "Purpose",
+      "generated_at": "2026-05-27T04:04:12.937481"
+    },
+    {
+      "english": "Listen carefully, improve quickly.",
+      "telugu": "జాగ్రత్తగా వినండి, త్వరగా మెరుగుపరచుకోండి.",
+      "transliteration": "jāgrattagā vinaṇḍi, tvaragā meruguparachukōṇḍi.",
+      "category": "Purpose",
+      "generated_at": "2026-05-27T04:04:12.937482"
     }
   ],
-  "last_updated": "2026-05-23T22:39:09.046179"
+  "last_updated": "2026-05-27T04:04:12.937483"
 }
