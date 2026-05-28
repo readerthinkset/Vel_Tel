@@ -2694,7 +2694,42 @@
       "transliteration": "thammudu, naa aanandam.",
       "category": "Family Terms",
       "generated_at": "2026-05-28T19:39:29.967327"
+    },
+    {
+      "english": "Breathe in, breathe out, relax.",
+      "telugu": "ఊపిరి తీసుకో, వదులు, విశ్రాంతి.",
+      "transliteration": "Oopiri theesuko, vadulu, vishraanthi.",
+      "category": "Mindfulness",
+      "generated_at": "2026-05-28T21:52:19.225099"
+    },
+    {
+      "english": "Be here, now, feel peace.",
+      "telugu": "ఇక్కడే ఉండు, ఇప్పుడు, శాంతిని అనుభవించు.",
+      "transliteration": "Ikkade undu, ippudu, shaanthini anubhavinchu.",
+      "category": "Mindfulness",
+      "generated_at": "2026-05-28T21:52:19.225107"
+    },
+    {
+      "english": "Listen closely, to your heart.",
+      "telugu": "నీ హృదయం, విను జాగ్రత్తగా.",
+      "transliteration": "Nee hrudayam, vinu jaagratthagaa.",
+      "category": "Mindfulness",
+      "generated_at": "2026-05-28T21:52:19.225109"
+    },
+    {
+      "english": "Notice your thoughts, let them go.",
+      "telugu": "నీ ఆలోచనలు గమనించు, వెళ్ళనివ్వు.",
+      "transliteration": "Nee aalochana lu gamaninchu, vellannivvu.",
+      "category": "Mindfulness",
+      "generated_at": "2026-05-28T21:52:19.225110"
+    },
+    {
+      "english": "One breath, at a time.",
+      "telugu": "ఒక్కొక్క ఊపిరి, ఒక్కొక్కసారి.",
+      "transliteration": "Okka okka oopiri, okka okkasari.",
+      "category": "Mindfulness",
+      "generated_at": "2026-05-28T21:52:19.225111"
     }
   ],
-  "last_updated": "2026-05-28T19:39:29.967329"
+  "last_updated": "2026-05-28T21:52:19.225113"
 }
