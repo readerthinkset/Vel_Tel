@@ -2589,7 +2589,42 @@
       "transliteration": "nuvvu leni jeevitham, oohinchalenu.",
       "category": "Love",
       "generated_at": "2026-05-28T03:52:56.420221"
+    },
+    {
+      "english": "Hello friend, how are you?",
+      "telugu": "హలో మిత్రమా, ఎలా ఉన్నావు?",
+      "transliteration": "Halo mitramaa, elaa unnaavu?",
+      "category": "Friendship",
+      "generated_at": "2026-05-28T16:20:33.913227"
+    },
+    {
+      "english": "You are my best friend.",
+      "telugu": "నువ్వు నా ప్రాణ స్నేహితుడివి.",
+      "transliteration": "Nuvvu naa praana snehitudivi.",
+      "category": "Friendship",
+      "generated_at": "2026-05-28T16:20:33.913236"
+    },
+    {
+      "english": "Let's meet tomorrow, okay?",
+      "telugu": "రేపు కలుద్దాం, సరేనా?",
+      "transliteration": "Repu kaluddam, sarena?",
+      "category": "Friendship",
+      "generated_at": "2026-05-28T16:20:33.913238"
+    },
+    {
+      "english": "Thanks for your help.",
+      "telugu": "మీ సహాయానికి ధన్యవాదాలు.",
+      "transliteration": "Mee sahaayaaniki dhanyavaadaalu.",
+      "category": "Friendship",
+      "generated_at": "2026-05-28T16:20:33.913242"
+    },
+    {
+      "english": "I missed you a lot.",
+      "telugu": "నిన్ను చాలా మిస్ అయ్యాను.",
+      "transliteration": "Ninnu chaalaa miss ayyaanu.",
+      "category": "Friendship",
+      "generated_at": "2026-05-28T16:20:33.913243"
     }
   ],
-  "last_updated": "2026-05-28T03:52:56.420222"
+  "last_updated": "2026-05-28T16:20:33.913245"
 }
