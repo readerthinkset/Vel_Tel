@@ -2729,7 +2729,42 @@
       "transliteration": "Okka okka oopiri, okka okkasari.",
       "category": "Mindfulness",
       "generated_at": "2026-05-28T21:52:19.225111"
+    },
+    {
+      "english": "Speak slowly, I am learning.",
+      "telugu": "మెల్లగా మాట్లాడండి, నేను నేర్చుకుంటున్నాను.",
+      "transliteration": "mellaga matladandi, nenu nerchukuntunnanu.",
+      "category": "Confidence",
+      "generated_at": "2026-05-29T03:54:18.877073"
+    },
+    {
+      "english": "Every day, a little more.",
+      "telugu": "ప్రతిరోజూ, కొంచెం ఎక్కువగా.",
+      "transliteration": "pratiroju, konchem ekkuvaga.",
+      "category": "Confidence",
+      "generated_at": "2026-05-29T03:54:18.877082"
+    },
+    {
+      "english": "I understand, mostly.",
+      "telugu": "నాకు అర్థమైంది, చాలా వరకు.",
+      "transliteration": "nakku arthamaindi, chala varaku.",
+      "category": "Confidence",
+      "generated_at": "2026-05-29T03:54:18.877083"
+    },
+    {
+      "english": "One word at a time.",
+      "telugu": "ఒక్కో మాట, ఒక్కోసారి.",
+      "transliteration": "okko mata, okkosari.",
+      "category": "Confidence",
+      "generated_at": "2026-05-29T03:54:18.877085"
+    },
+    {
+      "english": "Don't worry, I'll try.",
+      "telugu": "చింతించకండి, నేను ప్రయత్నిస్తాను.",
+      "transliteration": "chintinchakandi, nenu prayatnistanoo.",
+      "category": "Confidence",
+      "generated_at": "2026-05-29T03:54:18.877086"
     }
   ],
-  "last_updated": "2026-05-28T21:52:19.225113"
+  "last_updated": "2026-05-29T03:54:18.877087"
 }
