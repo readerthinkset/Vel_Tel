@@ -2869,7 +2869,42 @@
       "transliteration": "Prasthuthaanni sweekarinchu, sunnithanga.",
       "category": "Inner Peace",
       "generated_at": "2026-05-29T19:35:30.056468"
+    },
+    {
+      "english": "Hello there, good day.",
+      "telugu": "నమస్కారం, శుభోదయం.",
+      "transliteration": "namaskaram, shubhodhayam.",
+      "category": "Greetings",
+      "generated_at": "2026-05-29T21:49:24.110467"
+    },
+    {
+      "english": "Good evening, hope you're well.",
+      "telugu": "శుభ సాయంత్రం, బాగున్నారని ఆశిస్తున్నాను.",
+      "transliteration": "shubha saayantram, baagunnarani aashisthunnanu.",
+      "category": "Greetings",
+      "generated_at": "2026-05-29T21:49:24.110477"
+    },
+    {
+      "english": "Welcome, please come in.",
+      "telugu": "స్వాగతం, దయచేసి రండి.",
+      "transliteration": "swagatham, dayachesi randi.",
+      "category": "Greetings",
+      "generated_at": "2026-05-29T21:49:24.110479"
+    },
+    {
+      "english": "How's your day going?",
+      "telugu": "మీ రోజు ఎలా గడుస్తోంది?",
+      "transliteration": "mee roju ela gadusthondi?",
+      "category": "Greetings",
+      "generated_at": "2026-05-29T21:49:24.110480"
+    },
+    {
+      "english": "Hello everyone, welcome.",
+      "telugu": "అందరికీ నమస్కారం, స్వాగతం.",
+      "transliteration": "andariki namaskaram, swagatham.",
+      "category": "Greetings",
+      "generated_at": "2026-05-29T21:49:24.110481"
     }
   ],
-  "last_updated": "2026-05-29T19:35:30.056469"
+  "last_updated": "2026-05-29T21:49:24.110483"
 }
