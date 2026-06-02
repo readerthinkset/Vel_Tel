@@ -3149,7 +3149,42 @@
       "transliteration": "jeevitam baagundi, eppudu.",
       "category": "Joy",
       "generated_at": "2026-06-01T19:21:58.209247"
+    },
+    {
+      "english": "Where is the station, please?",
+      "telugu": "స్టేషన్ ఎక్కడ ఉంది, దయచేసి?",
+      "transliteration": "station ekkada undi, dayachesi?",
+      "category": "Travel Telugu",
+      "generated_at": "2026-06-02T04:13:31.814489"
+    },
+    {
+      "english": "How much is this, sir?",
+      "telugu": "దీని ధర ఎంత, గారు?",
+      "transliteration": "deeni dhara entha, garu?",
+      "category": "Travel Telugu",
+      "generated_at": "2026-06-02T04:13:31.814501"
+    },
+    {
+      "english": "Can I have a ticket, please?",
+      "telugu": "ఒక టికెట్ ఇవ్వగలరా, దయచేసి?",
+      "transliteration": "oka ticket ivvagalara, dayachesi?",
+      "category": "Travel Telugu",
+      "generated_at": "2026-06-02T04:13:31.814502"
+    },
+    {
+      "english": "I need a hotel, nearby.",
+      "telugu": "నాకు ఒక హోటల్ కావాలి, దగ్గరలో.",
+      "transliteration": "naaku oka hotel kaavali, daggaralo.",
+      "category": "Travel Telugu",
+      "generated_at": "2026-06-02T04:13:31.814504"
+    },
+    {
+      "english": "What time does it start?",
+      "telugu": "ఇది ఎప్పుడు మొదలవుతుంది?",
+      "transliteration": "idi eppudu modalavuthundi?",
+      "category": "Travel Telugu",
+      "generated_at": "2026-06-02T04:13:31.814505"
     }
   ],
-  "last_updated": "2026-06-01T19:21:58.209249"
+  "last_updated": "2026-06-02T04:13:31.814506"
 }
