@@ -3289,7 +3289,42 @@
       "transliteration": "Undu, nijanga.",
       "category": "Inner Peace",
       "generated_at": "2026-06-02T20:10:24.713484"
+    },
+    {
+      "english": "Five fingers, on my hand.",
+      "telugu": "ఐదు వేళ్ళు, నా చేతిపై.",
+      "transliteration": "aidu vellu, naa chetipai.",
+      "category": "Numbers Telugu",
+      "generated_at": "2026-06-02T22:19:40.882515"
+    },
+    {
+      "english": "Six, seven, eight, nine, ten.",
+      "telugu": "ఆరు, ఏడు, ఎనిమిది, తొమ్మిది, పది.",
+      "transliteration": "aaru, edu, enimidi, tommidi, padi.",
+      "category": "Numbers Telugu",
+      "generated_at": "2026-06-02T22:19:40.882525"
+    },
+    {
+      "english": "My age, is twenty years.",
+      "telugu": "నా వయస్సు, ఇరవై సంవత్సరాలు.",
+      "transliteration": "naa vayassu, iravai samvatsaraalu.",
+      "category": "Numbers Telugu",
+      "generated_at": "2026-06-02T22:19:40.882526"
+    },
+    {
+      "english": "Thirty days, in this month.",
+      "telugu": "ముప్పై రోజులు, ఈ నెలలో.",
+      "transliteration": "muppai rojulu, ee nelalo.",
+      "category": "Numbers Telugu",
+      "generated_at": "2026-06-02T22:19:40.882527"
+    },
+    {
+      "english": "Forty, fifty, sixty, seventy.",
+      "telugu": "నలభై, యాభై, అరవై, డెబ్బై.",
+      "transliteration": "nalabhai, yabai, aravai, debbai.",
+      "category": "Numbers Telugu",
+      "generated_at": "2026-06-02T22:19:40.882529"
     }
   ],
-  "last_updated": "2026-06-02T20:10:24.713486"
+  "last_updated": "2026-06-02T22:19:40.882530"
 }
