@@ -3394,7 +3394,42 @@
       "transliteration": "Sānukūlangā uṇḍū, eppuḍū.",
       "category": "Hope",
       "generated_at": "2026-06-03T20:20:57.075750"
+    },
+    {
+      "english": "We are ready, to order.",
+      "telugu": "మేము, ఆర్డర్ చేయడానికి సిద్ధంగా ఉన్నాము.",
+      "transliteration": "Memu, order cheyadaaniki siddhanga unnaam.",
+      "category": "Restaurant Telugu",
+      "generated_at": "2026-06-03T22:26:19.255405"
+    },
+    {
+      "english": "Can I get, the bill, please?",
+      "telugu": "నేను, బిల్లు, తీసుకోవచ్చా?",
+      "transliteration": "Nenu, billu, theesukovachhaa?",
+      "category": "Restaurant Telugu",
+      "generated_at": "2026-06-03T22:26:19.255416"
+    },
+    {
+      "english": "It was delicious, thank you.",
+      "telugu": "ఇది చాలా రుచిగా ఉంది, ధన్యవాదాలు.",
+      "transliteration": "Idi chaalaa ruchigaa undi, dhanyavaadaalu.",
+      "category": "Restaurant Telugu",
+      "generated_at": "2026-06-03T22:26:19.255418"
+    },
+    {
+      "english": "Do you have, vegetarian options?",
+      "telugu": "మీ వద్ద, శాకాహార ఎంపికలు ఉన్నాయా?",
+      "transliteration": "Mee vadda, saakaahaara empikalu unnaayaa?",
+      "category": "Restaurant Telugu",
+      "generated_at": "2026-06-03T22:26:19.255419"
+    },
+    {
+      "english": "Where is, the restroom?",
+      "telugu": "ఎక్కడ, వాష్‌రూమ్?",
+      "transliteration": "Ekkada, washroom?",
+      "category": "Restaurant Telugu",
+      "generated_at": "2026-06-03T22:26:19.255420"
     }
   ],
-  "last_updated": "2026-06-03T20:20:57.075752"
+  "last_updated": "2026-06-03T22:26:19.255422"
 }
