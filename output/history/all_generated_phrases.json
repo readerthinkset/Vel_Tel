@@ -3569,7 +3569,42 @@
       "transliteration": "Lothuga paathukupoyi, aakasanni anduko.",
       "category": "Balance",
       "generated_at": "2026-06-05T15:24:12.023155"
+    },
+    {
+      "english": "My name is John.",
+      "telugu": "నా పేరు జాన్.",
+      "transliteration": "naa peru John.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-06-05T16:31:27.674921"
+    },
+    {
+      "english": "No, I don't understand.",
+      "telugu": "లేదు, నాకు అర్థం కాలేదు.",
+      "transliteration": "ledu, naaku artham kaaledu.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-06-05T16:31:27.674930"
+    },
+    {
+      "english": "Please help me.",
+      "telugu": "దయచేసి నాకు సహాయం చేయండి.",
+      "transliteration": "dayachesi naaku sahaayam cheyandi.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-06-05T16:31:27.674932"
+    },
+    {
+      "english": "Where is the bathroom?",
+      "telugu": "బాత్రూమ్ ఎక్కడ ఉంది?",
+      "transliteration": "bathroom ekkada undi?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-06-05T16:31:27.674933"
+    },
+    {
+      "english": "I am hungry.",
+      "telugu": "నాకు ఆకలిగా ఉంది.",
+      "transliteration": "naaku aakaligaa undi.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-06-05T16:31:27.674934"
     }
   ],
-  "last_updated": "2026-06-05T15:24:12.023157"
+  "last_updated": "2026-06-05T16:31:27.674936"
 }
