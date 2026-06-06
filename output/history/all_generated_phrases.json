@@ -3639,7 +3639,42 @@
       "transliteration": "tappulu nērchukunē, kṣaṇālu.",
       "category": "Motivation",
       "generated_at": "2026-06-06T14:01:59.316295"
+    },
+    {
+      "english": "I can do this, yes.",
+      "telugu": "నేను ఇది చేయగలను, అవును.",
+      "transliteration": "nenu idi cheyagalanu, avunu.",
+      "category": "Confidence",
+      "generated_at": "2026-06-06T15:18:18.492793"
+    },
+    {
+      "english": "Slowly, but surely.",
+      "telugu": "నెమ్మదిగా, కానీ ఖచ్చితంగా.",
+      "transliteration": "nemmadiga, kani khachitanga.",
+      "category": "Confidence",
+      "generated_at": "2026-06-06T15:18:18.492804"
+    },
+    {
+      "english": "Mistakes are okay.",
+      "telugu": "తప్పులు చేయడం, సరే.",
+      "transliteration": "tappulu cheyadam, sare.",
+      "category": "Confidence",
+      "generated_at": "2026-06-06T15:18:18.492806"
+    },
+    {
+      "english": "I am getting better.",
+      "telugu": "నేను మెరుగుపడుతున్నాను.",
+      "transliteration": "nenu merugupadutunnanu.",
+      "category": "Confidence",
+      "generated_at": "2026-06-06T15:18:18.492807"
+    },
+    {
+      "english": "Keep practicing, you can.",
+      "telugu": "అభ్యాసం చేస్తూ ఉండండి, మీరు చేయగలరు.",
+      "transliteration": "abhyasam chestu undandi, meeru cheyagalaru.",
+      "category": "Confidence",
+      "generated_at": "2026-06-06T15:18:18.492809"
     }
   ],
-  "last_updated": "2026-06-06T14:01:59.316297"
+  "last_updated": "2026-06-06T15:18:18.492810"
 }
