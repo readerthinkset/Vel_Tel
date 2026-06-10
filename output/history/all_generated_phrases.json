@@ -3709,7 +3709,42 @@
       "transliteration": "antaa paripurnanga, yay!",
       "category": "Joy",
       "generated_at": "2026-06-07T21:04:57.434766"
+    },
+    {
+      "english": "My bag is stolen, please help.",
+      "telugu": "నా బ్యాగ్ దొంగిలించబడింది, దయచేసి సహాయం చేయండి.",
+      "transliteration": "Naa bag dongilinchabadindi, dayachesi sahayam cheyandi.",
+      "category": "Emergency Telugu",
+      "generated_at": "2026-06-10T15:58:11.707503"
+    },
+    {
+      "english": "Is there a hospital, close by?",
+      "telugu": "ఆసుపత్రి ఉందా, దగ్గరలో?",
+      "transliteration": "Aasupatri unda, daggaralo?",
+      "category": "Emergency Telugu",
+      "generated_at": "2026-06-10T15:58:11.707514"
+    },
+    {
+      "english": "I need to make a call, please.",
+      "telugu": "నేను కాల్ చేయాలి, దయచేసి.",
+      "transliteration": "Nenu call cheyali, dayachesi.",
+      "category": "Emergency Telugu",
+      "generated_at": "2026-06-10T15:58:11.707515"
+    },
+    {
+      "english": "Fire! Someone call the fire department!",
+      "telugu": "నిప్పు! ఎవరో అగ్నిమాపక విభాగానికి ఫోన్ చేయండి!",
+      "transliteration": "Nippu! Evaro agnimapaka vibhaganiki phone cheyandi!",
+      "category": "Emergency Telugu",
+      "generated_at": "2026-06-10T15:58:11.707516"
+    },
+    {
+      "english": "I need water, I feel weak.",
+      "telugu": "నాకు నీళ్ళు కావాలి, నాకు నీరసంగా ఉంది.",
+      "transliteration": "Naku neellu kavali, naku neerasanga undi.",
+      "category": "Emergency Telugu",
+      "generated_at": "2026-06-10T15:58:11.707518"
     }
   ],
-  "last_updated": "2026-06-07T21:04:57.434768"
+  "last_updated": "2026-06-10T15:58:11.707519"
 }
