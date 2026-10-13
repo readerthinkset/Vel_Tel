@@ -3814,7 +3814,42 @@
       "transliteration": "mee haddulanu datandi, marinta anveshinchandi.",
       "category": "Self Improvement",
       "generated_at": "2026-08-24T14:43:02.555165"
+    },
+    {
+      "english": "Where is the train station?",
+      "telugu": "రైలు స్టేషన్ ఎక్కడ ఉంది?",
+      "transliteration": "railu station ekkada undi?",
+      "category": "Travel Telugu",
+      "generated_at": "2026-10-13T19:11:47.466559"
+    },
+    {
+      "english": "Can I have the bill, please?",
+      "telugu": "బిల్లు ఇవ్వగలరా, దయచేసి?",
+      "transliteration": "billu ivvagalara, dayachesi?",
+      "category": "Travel Telugu",
+      "generated_at": "2026-10-13T19:11:47.466570"
+    },
+    {
+      "english": "I need a taxi, quickly.",
+      "telugu": "నాకు టాక్సీ కావాలి, తొందరగా.",
+      "transliteration": "naku taxi kavali, tondaraga.",
+      "category": "Travel Telugu",
+      "generated_at": "2026-10-13T19:11:47.466572"
+    },
+    {
+      "english": "This is a beautiful place.",
+      "telugu": "ఇది చాలా అందమైన ప్రదేశం.",
+      "transliteration": "idi chala andamaina pradesam.",
+      "category": "Travel Telugu",
+      "generated_at": "2026-10-13T19:11:47.466574"
+    },
+    {
+      "english": "How much is this ticket?",
+      "telugu": "ఈ టికెట్ ధర ఎంత?",
+      "transliteration": "ee ticket dhara enta?",
+      "category": "Travel Telugu",
+      "generated_at": "2026-10-13T19:11:47.466575"
     }
   ],
-  "last_updated": "2026-08-24T14:43:02.555167"
+  "last_updated": "2026-10-13T19:11:47.466577"
 }
