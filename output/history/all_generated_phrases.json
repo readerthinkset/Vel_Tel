@@ -4024,7 +4024,42 @@
       "transliteration": "ee roju kruthagnatha, repu shanthi",
       "category": "Happiness",
       "generated_at": "2026-11-03T20:39:40.684389"
+    },
+    {
+      "english": "Hello, do you have table for two?",
+      "telugu": "నమస్కారం, ఇద్దరికి టేబుల్ ఉందా?",
+      "transliteration": "namaskaaram, iddaariki table undaa?",
+      "category": "Restaurant Telugu",
+      "generated_at": "2026-11-03T22:31:30.623887"
+    },
+    {
+      "english": "Please, give me the menu, now.",
+      "telugu": "దయచేసి ఇప్పుడు మెనూ ఇవ్వండి.",
+      "transliteration": "dayachesi ippudu menu ivvandi.",
+      "category": "Restaurant Telugu",
+      "generated_at": "2026-11-03T22:31:30.623913"
+    },
+    {
+      "english": "I am allergic to peanuts, please.",
+      "telugu": "నాకు వేరుశెనగ అలర్జీ ఉంది, దయచేసి.",
+      "transliteration": "naaku verusenaga allergy undi, dayachesi.",
+      "category": "Restaurant Telugu",
+      "generated_at": "2026-11-03T22:31:30.623914"
+    },
+    {
+      "english": "Could we order quickly, please?",
+      "telugu": "మనం త్వరగా ఆర్డర్ చేయొచ్చా, దయచేసి?",
+      "transliteration": "manam tvaraga order cheyyocchaa, dayachesi?",
+      "category": "Restaurant Telugu",
+      "generated_at": "2026-11-03T22:31:30.623915"
+    },
+    {
+      "english": "What is the most popular dish here?",
+      "telugu": "ఇక్కడ అత్యంత ప్రాచుర్యం పొందిన వంటకం ఏది?",
+      "transliteration": "ikkada atyanta prachuryaṁ pondina vantakam edi?",
+      "category": "Restaurant Telugu",
+      "generated_at": "2026-11-03T22:31:30.623916"
     }
   ],
-  "last_updated": "2026-11-03T20:39:40.684390"
+  "last_updated": "2026-11-03T22:31:30.623918"
 }
