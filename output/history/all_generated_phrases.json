@@ -3954,7 +3954,42 @@
       "transliteration": "dhairyanga undandi, avasaramaitae sahaayam adagandi",
       "category": "Strength",
       "generated_at": "2026-11-03T07:15:23.604280"
+    },
+    {
+      "english": "Hello, where is the nearest metro station?",
+      "telugu": "నమస్తే, దగ్గరలో మెట్రో స్టేషన్ ఎక్కడ ఉంది?",
+      "transliteration": "namastē, daggaralō mētŕō sṭēshan ekkaḍa undi?",
+      "category": "Travel Telugu",
+      "generated_at": "2026-11-03T19:49:10.642281"
+    },
+    {
+      "english": "Excuse me, how much is this ticket?",
+      "telugu": "క్షమించండి, ఈ టికెట్ ధర ఎంత?",
+      "transliteration": "kṣamin̄candi, ī ṭikēt dhara enta?",
+      "category": "Travel Telugu",
+      "generated_at": "2026-11-03T19:49:10.642293"
+    },
+    {
+      "english": "Please, I need directions to the museum.",
+      "telugu": "దయచేసి, నాకు మ్యూజియం దారి చెప్పండి.",
+      "transliteration": "dayacēsi, nāku myūjiyam dāri cēppandi.",
+      "category": "Travel Telugu",
+      "generated_at": "2026-11-03T19:49:10.642294"
+    },
+    {
+      "english": "Is there a restroom near here?",
+      "telugu": "ఇక్కడ దగ్గరలో రెస్ట్రూం ఉందా?",
+      "transliteration": "ikkada daggaralō restroom undā?",
+      "category": "Travel Telugu",
+      "generated_at": "2026-11-03T19:49:10.642294"
+    },
+    {
+      "english": "Today is fine, tomorrow I will visit.",
+      "telugu": "ఈ రోజు బాగుంది, రేపు నేను వస్తాను.",
+      "transliteration": "ī rōju bāguṇdi, rēpu nēnu vāstānu.",
+      "category": "Travel Telugu",
+      "generated_at": "2026-11-03T19:49:10.642295"
     }
   ],
-  "last_updated": "2026-11-03T07:15:23.604282"
+  "last_updated": "2026-11-03T19:49:10.642297"
 }
