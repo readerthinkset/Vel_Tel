@@ -4234,7 +4234,42 @@
       "transliteration": "rojoo nerchukondi, sṭhiranga edagandi, agad̄andi",
       "category": "Motivation",
       "generated_at": "2026-11-05T01:31:13.426572"
+    },
+    {
+      "english": "Count slowly, then continue, one more number.",
+      "telugu": "నెమ్మదిగా లెక్కించండి, తర్వాత కొనసాగండి, మరో సంఖ్య.",
+      "transliteration": "nemmadi ga lekkinchandi, taruvata konసాగinchi, maro sankhya",
+      "category": "Numbers Telugu",
+      "generated_at": "2026-11-05T07:24:49.369885"
+    },
+    {
+      "english": "Say it, pause, and write the number.",
+      "telugu": "చెప్పండి, ఆగండి, సంఖ్యను రాయండి.",
+      "transliteration": "cheppandi, aagandi, sankhyanu rayandi",
+      "category": "Numbers Telugu",
+      "generated_at": "2026-11-05T07:24:49.369894"
+    },
+    {
+      "english": "Numbers matter, learn them carefully, today.",
+      "telugu": "సంఖ్యలు ముఖ్యం, జాగ్రత్తగా నేర్చుకోండి, ఈరోజు.",
+      "transliteration": "sankhyalu mukhyam, jagrattta ga nerchukondi, eeroju",
+      "category": "Numbers Telugu",
+      "generated_at": "2026-11-05T07:24:49.369896"
+    },
+    {
+      "english": "First ten, then twenty, keep going.",
+      "telugu": "మొదటి పది, తర్వాత ఇరవై, కొనసాగండి.",
+      "transliteration": "modati padi, taruvata iravai, konసాగinchandi",
+      "category": "Numbers Telugu",
+      "generated_at": "2026-11-05T07:24:49.369897"
+    },
+    {
+      "english": "This is number one, listen well.",
+      "telugu": "ఇది ఒకటి, బాగా వినండి.",
+      "transliteration": "idi okati, baaga vinandi",
+      "category": "Numbers Telugu",
+      "generated_at": "2026-11-05T07:24:49.369898"
     }
   ],
-  "last_updated": "2026-11-05T01:31:13.426574"
+  "last_updated": "2026-11-05T07:24:49.369900"
 }
