@@ -4269,7 +4269,42 @@
       "transliteration": "idi okati, baaga vinandi",
       "category": "Numbers Telugu",
       "generated_at": "2026-11-05T07:24:49.369898"
+    },
+    {
+      "english": "Mom, please help me, today",
+      "telugu": "అమ్మా, దయచేసి, ఈ రోజు సహాయం చేయండి",
+      "transliteration": "ammaa, dayachesi, ee roju sahayam cheyandi",
+      "category": "Family Terms",
+      "generated_at": "2026-11-05T20:17:15.962176"
+    },
+    {
+      "english": "Dad, I’m ready, let’s go",
+      "telugu": "ాన్నా, నేను సిద్ధంగా ఉన్నాను, పదండి",
+      "transliteration": "annna, nenu siddhamga unnanu, padandi",
+      "category": "Family Terms",
+      "generated_at": "2026-11-05T20:17:15.962189"
+    },
+    {
+      "english": "Grandma, tell me a story, please",
+      "telugu": "అత్తమ్మా, ఒక కథ చెప్పండి, దయచేసి",
+      "transliteration": "attammaa, oka katha cheppandi, dayachesi",
+      "category": "Family Terms",
+      "generated_at": "2026-11-05T20:17:15.962191"
+    },
+    {
+      "english": "Grandpa, sit here, let’s talk",
+      "telugu": "తాతయ్యా, ఇక్కడ కూర్చోండి, మాట్లాడుదాం",
+      "transliteration": "thaatayyaaa, ikkada koorchoondi, maatladudaam",
+      "category": "Family Terms",
+      "generated_at": "2026-11-05T20:17:15.962192"
+    },
+    {
+      "english": "Brother, wait, I’m coming now",
+      "telugu": "అన్నయ్యా, ఆగండి, నేను ఇప్పుడు వస్తాను",
+      "transliteration": "annayyaaa, aagandi, nenu ippudu vastaanu",
+      "category": "Family Terms",
+      "generated_at": "2026-11-05T20:17:15.962194"
     }
   ],
-  "last_updated": "2026-11-05T07:24:49.369900"
+  "last_updated": "2026-11-05T20:17:15.962196"
 }
