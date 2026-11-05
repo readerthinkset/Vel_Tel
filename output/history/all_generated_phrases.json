@@ -4304,7 +4304,42 @@
       "transliteration": "annayyaaa, aagandi, nenu ippudu vastaanu",
       "category": "Family Terms",
       "generated_at": "2026-11-05T20:17:15.962194"
+    },
+    {
+      "english": "Hi there, how are you today?",
+      "telugu": "నమస్తే, ఈ రోజు ఎలా ఉన్నారు?",
+      "transliteration": "namastē, ī rōju elā unnāru?",
+      "category": "Greetings",
+      "generated_at": "2026-11-05T21:15:09.919331"
+    },
+    {
+      "english": "Good morning, hope your day goes well.",
+      "telugu": "శుభోదయం, మీ రోజు బాగా సాగాలని కోరుకుంటున్నాను.",
+      "transliteration": "shubhōdayam, mī rōju bāga sāgālani kōrukuntunnānu.",
+      "category": "Greetings",
+      "generated_at": "2026-11-05T21:15:09.919348"
+    },
+    {
+      "english": "Hello, nice to see you again.",
+      "telugu": "హలో, మళ్లీ కలవడం సంతోషం.",
+      "transliteration": "halō, mallī kalavadam santōṣam.",
+      "category": "Greetings",
+      "generated_at": "2026-11-05T21:15:09.919350"
+    },
+    {
+      "english": "Welcome, please come in, take your seat.",
+      "telugu": "స్వాగతం, లోపలికి రండి, కూర్చోండి.",
+      "transliteration": "svāgatam, lōpaliki randi, kūrchōndi.",
+      "category": "Greetings",
+      "generated_at": "2026-11-05T21:15:09.919351"
+    },
+    {
+      "english": "Good evening, how was your day?",
+      "telugu": "శుభసాయంత్రం, మీ రోజు ఎలా గడిచింది?",
+      "transliteration": "shubhasāyantram, mī rōju elā gaḍichindi?",
+      "category": "Greetings",
+      "generated_at": "2026-11-05T21:15:09.919352"
     }
   ],
-  "last_updated": "2026-11-05T20:17:15.962196"
+  "last_updated": "2026-11-05T21:15:09.919354"
 }
