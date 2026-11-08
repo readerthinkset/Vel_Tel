@@ -4759,7 +4759,42 @@
       "transliteration": "eeroju nerchukondi, repatani nammandi",
       "category": "Positive Life",
       "generated_at": "2026-11-08T06:42:45.268804"
+    },
+    {
+      "english": "Help me, please, call for an ambulance",
+      "telugu": "సహాయం చేయండి, దయచేసి, అంబులెన్స్ పిలవండి",
+      "transliteration": "sahayam cheyandi, dayachesi, ambulens pilavandi",
+      "category": "Emergency Telugu",
+      "generated_at": "2026-11-08T18:05:25.699529"
+    },
+    {
+      "english": "Stop, stop, I’m bleeding badly",
+      "telugu": "ఆపండి, ఆపండి, నాకు బాగా రక్తస్రావం అవుతోంది",
+      "transliteration": "apandi, apandi, naaku baagaa rakthasraavam avutondi",
+      "category": "Emergency Telugu",
+      "generated_at": "2026-11-08T18:05:25.699542"
+    },
+    {
+      "english": "Call the police, now, I need help",
+      "telugu": "పోలీసులను పిలవండి, ఇప్పుడే, నాకు సహాయం కావాలి",
+      "transliteration": "polisu-lanu pilavandi, ippude, naaku sahayam kaavali",
+      "category": "Emergency Telugu",
+      "generated_at": "2026-11-08T18:05:25.699544"
+    },
+    {
+      "english": "I’m choking, please, help me breathe",
+      "telugu": "నాకు ఉక్కిరిబిక్కిరి అవుతోంది, దయచేసి, శ్వాస ఇవ్వండి",
+      "transliteration": "naaku ukkiribikkiri avutundi, dayachesi, svaasa ivvandi",
+      "category": "Emergency Telugu",
+      "generated_at": "2026-11-08T18:05:25.699545"
+    },
+    {
+      "english": "There’s a fire, get out, call emergency",
+      "telugu": "అగ్ని ఉంది, బయటికి రండి, అత్యవసరానికి కాల్ చేయండి",
+      "transliteration": "agni undi, bayatiki randi, atyaavasaraaniki kaal cheyandi",
+      "category": "Emergency Telugu",
+      "generated_at": "2026-11-08T18:05:25.699547"
     }
   ],
-  "last_updated": "2026-11-08T06:42:45.268805"
+  "last_updated": "2026-11-08T18:05:25.699548"
 }
