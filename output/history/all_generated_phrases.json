@@ -5144,7 +5144,42 @@
       "transliteration": "koṇchem nemmadinchu, ottidi ponivvu",
       "category": "Inner Peace",
       "generated_at": "2026-11-10T08:21:36.648941"
+    },
+    {
+      "english": "Hi, how are you doing today?",
+      "telugu": "హాయ్, ఈరోజు ఎలా ఉన్నారు?",
+      "transliteration": "Hai, ee roju elaa unnaaru?",
+      "category": "Greetings",
+      "generated_at": "2026-11-10T19:26:32.966718"
+    },
+    {
+      "english": "Good morning, have a great day!",
+      "telugu": "శుభోదయం, మీ రోజు అద్భుతంగా గడవాలి!",
+      "transliteration": "Shubhodayam, mee roju adbhootamgaa gadavaali!",
+      "category": "Greetings",
+      "generated_at": "2026-11-10T19:26:32.966729"
+    },
+    {
+      "english": "Hey, long time no see!",
+      "telugu": "హే, చాలా రోజులైంది!",
+      "transliteration": "Hey, chaaalaa rojulaindhi!",
+      "category": "Greetings",
+      "generated_at": "2026-11-10T19:26:32.966732"
+    },
+    {
+      "english": "Namaste, it's wonderful to meet you.",
+      "telugu": "నమస్తే, మిమ్మల్ని కలవడం ఆనందం.",
+      "transliteration": "Namaste, mimmalni kalavadam aanandam.",
+      "category": "Greetings",
+      "generated_at": "2026-11-10T19:26:32.966734"
+    },
+    {
+      "english": "Hello, are you comfortable here?",
+      "telugu": "హలో, ఇక్కడ మీకు సౌకర్యంగా ఉందా?",
+      "transliteration": "Halo, ikkada meeku saukaryamgaa undaa?",
+      "category": "Greetings",
+      "generated_at": "2026-11-10T19:26:32.966735"
     }
   ],
-  "last_updated": "2026-11-10T08:21:36.648943"
+  "last_updated": "2026-11-10T19:26:32.966738"
 }
