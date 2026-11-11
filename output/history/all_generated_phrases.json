@@ -5249,7 +5249,42 @@
       "transliteration": "rOjU rAvడంతోnE dhairyam vastundi.",
       "category": "Motivation",
       "generated_at": "2026-11-10T22:11:37.802094"
+    },
+    {
+      "english": "What time is it now, please?",
+      "telugu": "ఇప్పుడు సమయం ఎంత, దయచేసి?",
+      "transliteration": "ippudu samayam enta, dayachesi?",
+      "category": "Time",
+      "generated_at": "2026-11-11T00:20:40.915194"
+    },
+    {
+      "english": "I have a meeting at 3.",
+      "telugu": "నాకు మూడు గంటలకు మీటింగ్ ఉంది.",
+      "transliteration": "nakku moodu gantalki meeting undi",
+      "category": "Time",
+      "generated_at": "2026-11-11T00:20:40.915208"
+    },
+    {
+      "english": "Can we meet tomorrow morning?",
+      "telugu": "రేపు ఉదయం కలుద్దామా?",
+      "transliteration": "repū udayam kaluddamā?",
+      "category": "Time",
+      "generated_at": "2026-11-11T00:20:40.915211"
+    },
+    {
+      "english": "Please be here by 6.",
+      "telugu": "దయచేసి ఆరు గంటలకల్లా ఇక్కడ ఉండండి.",
+      "transliteration": "dayachesi āru gantalallā ikkada unḍandi",
+      "category": "Time",
+      "generated_at": "2026-11-11T00:20:40.915212"
+    },
+    {
+      "english": "The train leaves at seven.",
+      "telugu": "రైలు ఏడు గంటలకు బయలుదేరుతుంది.",
+      "transliteration": "railū ēḍu gantalku bayaludērutundi",
+      "category": "Time",
+      "generated_at": "2026-11-11T00:20:40.915214"
     }
   ],
-  "last_updated": "2026-11-10T22:11:37.802096"
+  "last_updated": "2026-11-11T00:20:40.915216"
 }
