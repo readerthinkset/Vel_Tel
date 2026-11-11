@@ -5389,7 +5389,42 @@
       "transliteration": "Menu choopisthara?",
       "category": "Basic Phrases",
       "generated_at": "2026-11-11T21:01:43.066054"
+    },
+    {
+      "english": "What number is this, please?",
+      "telugu": "ఇది ఏ సంఖ్య, దయచేసి?",
+      "transliteration": "idi ē saṅkhyā, dayacēsi?",
+      "category": "Numbers",
+      "generated_at": "2026-11-11T23:22:40.638468"
+    },
+    {
+      "english": "Give me five, please.",
+      "telugu": "దయచేసి నాకు ఐదు ఇవ్వండి.",
+      "transliteration": "dayacēsi nāku aid u ivvandi.",
+      "category": "Numbers",
+      "generated_at": "2026-11-11T23:22:40.638478"
+    },
+    {
+      "english": "I need seven numbers.",
+      "telugu": "నాకు ఏడు సంఖ్యలు కావాలి.",
+      "transliteration": "nāku ēḍu saṅkhyalu kāvāli.",
+      "category": "Numbers",
+      "generated_at": "2026-11-11T23:22:40.638482"
+    },
+    {
+      "english": "Count from one to ten.",
+      "telugu": "ఒకటి నుంచి పది వరకు లెక్కించండి.",
+      "transliteration": "okati nūnci pad i varaku lekkin̄candi.",
+      "category": "Numbers",
+      "generated_at": "2026-11-11T23:22:40.638484"
+    },
+    {
+      "english": "My number is eight.",
+      "telugu": "నా సంఖ్య ఎనిమిది.",
+      "transliteration": "nā saṅkhyā enimidi.",
+      "category": "Numbers",
+      "generated_at": "2026-11-11T23:22:40.638485"
     }
   ],
-  "last_updated": "2026-11-11T21:01:43.066057"
+  "last_updated": "2026-11-11T23:22:40.638487"
 }
