@@ -5284,7 +5284,42 @@
       "transliteration": "railū ēḍu gantalku bayaludērutundi",
       "category": "Time",
       "generated_at": "2026-11-11T00:20:40.915214"
+    },
+    {
+      "english": "Good morning, how’s your day going?",
+      "telugu": "శుభోదయం, మీ రోజు ఎలా ఉంది?",
+      "transliteration": "Shubhodayam, mē rōju elā undi?",
+      "category": "Common Expressions",
+      "generated_at": "2026-11-11T05:41:30.844008"
+    },
+    {
+      "english": "I’m looking for the bus stop.",
+      "telugu": "నేను బస్సు స్టాప్ కోసం చూస్తున్నాను.",
+      "transliteration": "Nenu bas-su stōp kōsam chooosthunnānu.",
+      "category": "Common Expressions",
+      "generated_at": "2026-11-11T05:41:30.844018"
+    },
+    {
+      "english": "How much does this cost?",
+      "telugu": "ఇది ఎంత ఖరీదు?",
+      "transliteration": "Idi entha kharīdu?",
+      "category": "Common Expressions",
+      "generated_at": "2026-11-11T05:41:30.844020"
+    },
+    {
+      "english": "Is there a pharmacy nearby?",
+      "telugu": "ఇక్కడ దగ్గరలో ఫార్మసీ ఉందా?",
+      "transliteration": "Ikkada daggaralo faarma-sī undā?",
+      "category": "Common Expressions",
+      "generated_at": "2026-11-11T05:41:30.844022"
+    },
+    {
+      "english": "Could you write it down, please?",
+      "telugu": "దయచేసి, మీరు ఇది రాసిస్తారా?",
+      "transliteration": "Dayachēsi, mīru idi rā-sisthārā?",
+      "category": "Common Expressions",
+      "generated_at": "2026-11-11T05:41:30.844023"
     }
   ],
-  "last_updated": "2026-11-11T00:20:40.915216"
+  "last_updated": "2026-11-11T05:41:30.844025"
 }
