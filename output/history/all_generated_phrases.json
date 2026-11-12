@@ -5424,7 +5424,42 @@
       "transliteration": "nā saṅkhyā enimidi.",
       "category": "Numbers",
       "generated_at": "2026-11-11T23:22:40.638485"
+    },
+    {
+      "english": "Help me, please, I need help.",
+      "telugu": "నన్ను కాపాడండి, దయచేసి, నాకు సహాయం కావాలి.",
+      "transliteration": "nannu kaapaadandi, dayachēsi, naaku sahāyam kaavali.",
+      "category": "Emergency",
+      "generated_at": "2026-11-12T01:45:19.551762"
+    },
+    {
+      "english": "Call an ambulance, right now, please.",
+      "telugu": "దయచేసి, ఇప్పుడు అంబులెన్స్‌కు కాల్ చేయండి.",
+      "transliteration": "dayachēsi, ippuḍe ambulaṇs-kuku call cheyyandi.",
+      "category": "Emergency",
+      "generated_at": "2026-11-12T01:45:19.551772"
+    },
+    {
+      "english": "Is anyone there? I’m in danger.",
+      "telugu": "ఎవరైనా ఉన్నారా? నాకు ప్రమాదం ఉంది.",
+      "transliteration": "evarainā unnārā? nāku pramadaṁ undi.",
+      "category": "Emergency",
+      "generated_at": "2026-11-12T01:45:19.551774"
+    },
+    {
+      "english": "Stop! Help me, something is wrong.",
+      "telugu": "ఆగండి! సహాయం చేయండి, ఏదో తప్పు ఉంది.",
+      "transliteration": "āgandi! sahāyam cheyyandi, ēdo tappu undi.",
+      "category": "Emergency",
+      "generated_at": "2026-11-12T01:45:19.551776"
+    },
+    {
+      "english": "Please call the police, quickly.",
+      "telugu": "దయచేసి పోలీసులకు వెంటనే కాల్ చేయండి.",
+      "transliteration": "dayachēsi polisulaku ventanē call cheyyandi.",
+      "category": "Emergency",
+      "generated_at": "2026-11-12T01:45:19.551777"
     }
   ],
-  "last_updated": "2026-11-11T23:22:40.638487"
+  "last_updated": "2026-11-12T01:45:19.551779"
 }
