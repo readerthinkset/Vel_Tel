@@ -5529,7 +5529,42 @@
       "transliteration": "Mee samayaaniki nenu krutagnatalu, nijangaa.",
       "category": "Gratitude",
       "generated_at": "2026-11-12T19:39:42.733822"
+    },
+    {
+      "english": "I’ve got this, just relax.",
+      "telugu": "నాకు ఇది తెలుసు, కాస్త రిలాక్స్.",
+      "transliteration": "Naku idi telusu, kasta relax.",
+      "category": "Confidence",
+      "generated_at": "2026-11-12T21:16:44.348878"
+    },
+    {
+      "english": "My Telugu voice will come out.",
+      "telugu": "నా తెలుగు మాటలు బయటకు వస్తాయి.",
+      "transliteration": "Naa telugu matalu bayataku vastayi.",
+      "category": "Confidence",
+      "generated_at": "2026-11-12T21:16:44.348898"
+    },
+    {
+      "english": "I believe in myself, today.",
+      "telugu": "నాపై నాకు నమ్మకం ఉంది, ఇవాళ.",
+      "transliteration": "Naapai naku nammakam undi, ivala.",
+      "category": "Confidence",
+      "generated_at": "2026-11-12T21:16:44.348900"
+    },
+    {
+      "english": "I can speak, even slowly.",
+      "telugu": "నేను మాట్లాడగలను, నెమ్మదిగా అయినా.",
+      "transliteration": "Nenu matladagalanu, nemmadiga aina.",
+      "category": "Confidence",
+      "generated_at": "2026-11-12T21:16:44.348902"
+    },
+    {
+      "english": "It’s okay, I’m learning quickly.",
+      "telugu": "పర్లేదు, నేను వేగంగా నేర్చుకుంటున్నాను.",
+      "transliteration": "Parledu, nenu veganga nerchukuntunnanu.",
+      "category": "Confidence",
+      "generated_at": "2026-11-12T21:16:44.348905"
     }
   ],
-  "last_updated": "2026-11-12T19:39:42.733824"
+  "last_updated": "2026-11-12T21:16:44.348907"
 }
