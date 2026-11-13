@@ -5599,7 +5599,42 @@
       "transliteration": "Īrojū discount ēmainā undā?",
       "category": "Shopping",
       "generated_at": "2026-11-12T22:37:58.121338"
+    },
+    {
+      "english": "Relax your jaw, soften your face.",
+      "telugu": "మీ దవడను వదిలేయండి, ముఖాన్ని نرم చేయండి.",
+      "transliteration": "mī davāḍanu vadiLeyandi, mukhāṁ niṃḍāṁcEyaṇḍi",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-13T00:49:32.447028"
+    },
+    {
+      "english": "Unclench your hands, just notice.",
+      "telugu": "మీ చేతులను బిగించొద్దు, కేవలం గమనించండి.",
+      "transliteration": "mī cētulanu bigiñcaḍḍu, kēvalaṁ gamaniṃcaṇḍi",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-13T00:49:32.447040"
+    },
+    {
+      "english": "Shoulders down, breathe easy for a moment.",
+      "telugu": "భుజాలు కిందికి, కొద్దిసేపు సులువుగా శ్వాసించండి.",
+      "transliteration": "bhujālu kiṇḍiki, koḍḍisēpu suluvugā śvāsiṃcaṇḍi",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-13T00:49:32.447041"
+    },
+    {
+      "english": "Exhale slowly, feel the air.",
+      "telugu": "నెమ్మదిగా ఊదండి, గాలి ఎలా అనిపిస్తుందో గమనించండి.",
+      "transliteration": "nemmadiGā ūḍaṇḍi, gāli elā anipistundō gamaniṃcaṇḍi",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-13T00:49:32.447042"
+    },
+    {
+      "english": "Let your breath guide you.",
+      "telugu": "మీ శ్వాసే మీకు మార్గం చూపనివ్వండి.",
+      "transliteration": "mī śvāsaē mīku mārgam cūpanivvaṇḍi",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-13T00:49:32.447043"
     }
   ],
-  "last_updated": "2026-11-12T22:37:58.121339"
+  "last_updated": "2026-11-13T00:49:32.447044"
 }
