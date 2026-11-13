@@ -5739,7 +5739,42 @@
       "transliteration": "Nītoṇē ninnu ivccina māṭa nilabēṭṭuko.",
       "category": "Strength",
       "generated_at": "2026-11-13T20:44:41.860859"
+    },
+    {
+      "english": "My mother is in the kitchen now.",
+      "telugu": "నా అమ్మ ఇప్పుడు వంటగదిలో ఉంది.",
+      "transliteration": "naa amma ippudu vantagadi lo undi",
+      "category": "Family Terms",
+      "generated_at": "2026-11-13T22:25:56.053440"
+    },
+    {
+      "english": "Your mother called me this morning.",
+      "telugu": "నీ అమ్మ ఈ ఉదయం నాకు ఫోన్ చేసింది.",
+      "transliteration": "nee amma ee udayam naaku phone chesindi",
+      "category": "Family Terms",
+      "generated_at": "2026-11-13T22:25:56.053453"
+    },
+    {
+      "english": "My father works hard every day.",
+      "telugu": "నాన్న ప్రతిరోజూ కష్టపడి పని చేస్తాడు.",
+      "transliteration": "naannə pratidroju kashtapadi pani chestadu",
+      "category": "Family Terms",
+      "generated_at": "2026-11-13T22:25:56.053455"
+    },
+    {
+      "english": "Your father is very calm today.",
+      "telugu": "నీ నాన్న ఈ రోజు చాలా ప్రశాంతంగా ఉన్నాడు.",
+      "transliteration": "nee naannə ee roju chala prashanthanga unnadu",
+      "category": "Family Terms",
+      "generated_at": "2026-11-13T22:25:56.053457"
+    },
+    {
+      "english": "My brother helps me with homework.",
+      "telugu": "నా అన్నయ్య నాకు హోమ్‌వర్క్‌లో సహాయం చేస్తాడు.",
+      "transliteration": "naa annayya naaku homework lo sahaayam chestadu",
+      "category": "Family Terms",
+      "generated_at": "2026-11-13T22:25:56.053458"
     }
   ],
-  "last_updated": "2026-11-13T20:44:41.860862"
+  "last_updated": "2026-11-13T22:25:56.053460"
 }
