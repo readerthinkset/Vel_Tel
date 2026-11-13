@@ -5669,7 +5669,42 @@
       "transliteration": "Chinna aDugule mukhyam, opikagaa unDhu.",
       "category": "Patience",
       "generated_at": "2026-11-13T06:03:31.877718"
+    },
+    {
+      "english": "Hi, table for two, please.",
+      "telugu": "హాయ్, ఇద్దరికి టేబుల్ కావాలి.",
+      "transliteration": "Hai, iddariki table kaavaali.",
+      "category": "Restaurant",
+      "generated_at": "2026-11-13T19:20:41.042372"
+    },
+    {
+      "english": "Good evening, can we order now?",
+      "telugu": "శుభ సాయంత్రం, ఇప్పుడే ఆర్డర్ చేయొచ్చా?",
+      "transliteration": "Shubha saayanthram, ippude order cheyyochaa?",
+      "category": "Restaurant",
+      "generated_at": "2026-11-13T19:20:41.042387"
+    },
+    {
+      "english": "We’re ready to place our order.",
+      "telugu": "మేము మా ఆర్డర్ పెట్టడానికి రెడీగా ఉన్నాం.",
+      "transliteration": "Mēmu maa order pettadaaniki redigā unnaām.",
+      "category": "Restaurant",
+      "generated_at": "2026-11-13T19:20:41.042389"
+    },
+    {
+      "english": "What do you recommend for starters?",
+      "telugu": "స్టార్టర్స్‌కి మీరు ఏమి సిఫార్సు చేస్తారు?",
+      "transliteration": "Starterḷaki mīru ēmi sipaarusu chestaaru?",
+      "category": "Restaurant",
+      "generated_at": "2026-11-13T19:20:41.042390"
+    },
+    {
+      "english": "Is the menu available in English?",
+      "telugu": "మెనూ ఇంగ్లీష్‌లో ఉందా?",
+      "transliteration": "Menu English-lo undaa?",
+      "category": "Restaurant",
+      "generated_at": "2026-11-13T19:20:41.042391"
     }
   ],
-  "last_updated": "2026-11-13T06:03:31.877720"
+  "last_updated": "2026-11-13T19:20:41.042393"
 }
