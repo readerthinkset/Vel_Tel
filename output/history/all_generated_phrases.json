@@ -5844,7 +5844,42 @@
       "transliteration": "paripoornata kanna, pragati ni jarupukondi.",
       "category": "Growth",
       "generated_at": "2026-11-14T05:52:42.730859"
+    },
+    {
+      "english": "Hey friend, how's life going?",
+      "telugu": "హే ఫ్రెండ్, జీవితం ఎలా ఉంది?",
+      "transliteration": "Hey friend, jeevitham ela undi?",
+      "category": "Friendship",
+      "generated_at": "2026-11-14T17:45:14.563635"
+    },
+    {
+      "english": "I'm grateful to have you.",
+      "telugu": "నిన్ను కలిగి ఉండటం నాకు కృతజ్ఞత.",
+      "transliteration": "Ninnu kaligi undatam naaku kruthagnatha.",
+      "category": "Friendship",
+      "generated_at": "2026-11-14T17:45:14.563645"
+    },
+    {
+      "english": "Thanks for listening to me, friend.",
+      "telugu": "నన్ను వింటున్నందుకు ధన్యవాదాలు, ఫ్రెండ్.",
+      "transliteration": "Nannu vintunnanduku dhanyavaadalu, friend.",
+      "category": "Friendship",
+      "generated_at": "2026-11-14T17:45:14.563647"
+    },
+    {
+      "english": "You make my day better.",
+      "telugu": "నీవు నా రోజును మెరుగుపరుస్తావు.",
+      "transliteration": "Neevu naa roju ni meruguparesthavu.",
+      "category": "Friendship",
+      "generated_at": "2026-11-14T17:45:14.563649"
+    },
+    {
+      "english": "Call me when you're free.",
+      "telugu": "నువ్వు ఖాళీగా ఉన్నప్పుడు నాకు కాల్ చెయ్.",
+      "transliteration": "Nuvvu kaali ga unnappudu naaku call chey.",
+      "category": "Friendship",
+      "generated_at": "2026-11-14T17:45:14.563650"
     }
   ],
-  "last_updated": "2026-11-14T05:52:42.730861"
+  "last_updated": "2026-11-14T17:45:14.563652"
 }
