@@ -5879,7 +5879,42 @@
       "transliteration": "Nuvvu kaali ga unnappudu naaku call chey.",
       "category": "Friendship",
       "generated_at": "2026-11-14T17:45:14.563650"
+    },
+    {
+      "english": "Hi, where is the bus stop?",
+      "telugu": "హాయ్, బస్ స్టాప్ ఎక్కడ ఉంది?",
+      "transliteration": "Hai, bus stop ekkada undi?",
+      "category": "Travel",
+      "generated_at": "2026-11-14T18:57:07.180204"
+    },
+    {
+      "english": "Please show me the way.",
+      "telugu": "దయచేసి దారి చూపించండి.",
+      "transliteration": "Dayachesi daari choopinchandi.",
+      "category": "Travel",
+      "generated_at": "2026-11-14T18:57:07.180217"
+    },
+    {
+      "english": "Is this train going to Hyderabad?",
+      "telugu": "ఈ రైలు హైదరాబాద్‌కి వెళ్తుందా?",
+      "transliteration": "Ee rail Hyderabad-ki velthundaa?",
+      "category": "Travel",
+      "generated_at": "2026-11-14T18:57:07.180218"
+    },
+    {
+      "english": "What time does it leave?",
+      "telugu": "ఇది ఎప్పుడు బయలుదేరుతుంది?",
+      "transliteration": "Idi eppudu bayaluderauthundi?",
+      "category": "Travel",
+      "generated_at": "2026-11-14T18:57:07.180220"
+    },
+    {
+      "english": "Where can I buy a SIM card?",
+      "telugu": "నేను SIM కార్డు ఎక్కడ కొనాలి?",
+      "transliteration": "Nenu SIM card ekkada konali?",
+      "category": "Travel",
+      "generated_at": "2026-11-14T18:57:07.180221"
     }
   ],
-  "last_updated": "2026-11-14T17:45:14.563652"
+  "last_updated": "2026-11-14T18:57:07.180223"
 }
