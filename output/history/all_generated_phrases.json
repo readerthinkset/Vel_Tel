@@ -6089,7 +6089,42 @@
       "transliteration": "Evarainaa chese prayathnaanni gamaninchi, prothsahinchandi.",
       "category": "Kindness",
       "generated_at": "2026-11-15T19:31:37.916582"
+    },
+    {
+      "english": "Thank you for your patience with me.",
+      "telugu": "మీ ఓపికకు ధన్యవాదాలు.",
+      "transliteration": "mee opika ki dhanyavaadaalu.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-15T21:31:07.305279"
+    },
+    {
+      "english": "I didn’t mean to hurt you.",
+      "telugu": "నేను నిన్ను బాధించాలనుకోలేదు.",
+      "transliteration": "nenu ninnu baadhinchaalanukoledu.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-15T21:31:07.305295"
+    },
+    {
+      "english": "I understand, and I forgive you.",
+      "telugu": "నాకు అర్థమైంది, నేను నీను క్షమిస్తాను.",
+      "transliteration": "naaku arthamayyindi, nenu ninnu kshamistaanu.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-15T21:31:07.305296"
+    },
+    {
+      "english": "Let’s talk, then I’ll forgive.",
+      "telugu": "మాట్లాడదాం, తర్వాత నేను క్షమిస్తాను.",
+      "transliteration": "maatlaaddhaam, tharvaatha nenu kshamistaanu.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-15T21:31:07.305297"
+    },
+    {
+      "english": "You can let it go too.",
+      "telugu": "నీవూ కూడా దాన్ని వదిలేయవచ్చు.",
+      "transliteration": "neevu koodaa dhaanni vadileyavachhu.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-15T21:31:07.305299"
     }
   ],
-  "last_updated": "2026-11-15T19:31:37.916583"
+  "last_updated": "2026-11-15T21:31:07.305300"
 }
