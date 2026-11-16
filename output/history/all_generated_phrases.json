@@ -6229,7 +6229,42 @@
       "transliteration": "upiri peelchi, relax ayyi, konasaginchu",
       "category": "Perseverance",
       "generated_at": "2026-11-16T21:44:45.811597"
+    },
+    {
+      "english": "I need this ticket, please.",
+      "telugu": "నాకు ఈ టికెట్ కావాలి, దయచేసి.",
+      "transliteration": "Naaku ee ticket kaavali, dayachesi.",
+      "category": "Common Expressions",
+      "generated_at": "2026-11-16T23:09:44.313043"
+    },
+    {
+      "english": "How do I get to the station?",
+      "telugu": "స్టేషన్‌కి ఎలా వెళ్తాను?",
+      "transliteration": "Station ki ela velthaanu?",
+      "category": "Common Expressions",
+      "generated_at": "2026-11-16T23:09:44.313054"
+    },
+    {
+      "english": "Is this seat taken, sorry?",
+      "telugu": "ఈ సీటు ఖాళీగా ఉందా, క్షమించండి?",
+      "transliteration": "Ee seatu khaali gaa undaa, kshaminchandi?",
+      "category": "Common Expressions",
+      "generated_at": "2026-11-16T23:09:44.313055"
+    },
+    {
+      "english": "I’m just browsing, thank you.",
+      "telugu": "నేను కేవలం చూస్తున్నాను, ధన్యవాదాలు.",
+      "transliteration": "Nenu kevalam choostunnaanu, dhanyavaadaalu.",
+      "category": "Common Expressions",
+      "generated_at": "2026-11-16T23:09:44.313057"
+    },
+    {
+      "english": "What time do you open?",
+      "telugu": "మీరు ఎంత గంటకి తెరుస్తారు?",
+      "transliteration": "Meeru entha gantaki terustaaru?",
+      "category": "Common Expressions",
+      "generated_at": "2026-11-16T23:09:44.313058"
     }
   ],
-  "last_updated": "2026-11-16T21:44:45.811599"
+  "last_updated": "2026-11-16T23:09:44.313060"
 }
