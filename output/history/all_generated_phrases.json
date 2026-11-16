@@ -6194,7 +6194,42 @@
       "transliteration": "Nee kougili, annitini surakshitanga chesthundi.",
       "category": "Love",
       "generated_at": "2026-11-16T05:52:41.135913"
+    },
+    {
+      "english": "Keep your mind steady, try again.",
+      "telugu": "నీ మనసును స్థిరంగా ఉంచు, మళ్లీ ప్రయత్నించు.",
+      "transliteration": "ni manasunu sthiranga unchu, malli prayatninchu",
+      "category": "Perseverance",
+      "generated_at": "2026-11-16T21:44:45.811585"
+    },
+    {
+      "english": "Take one more attempt, you can.",
+      "telugu": "ఇంకొకసారి ప్రయత్నించు, నువ్వు చేయగలవు.",
+      "transliteration": "inkokasari prayatninchu, nuvvu cheyagalavu",
+      "category": "Perseverance",
+      "generated_at": "2026-11-16T21:44:45.811595"
+    },
+    {
+      "english": "Even if it’s hard, keep working.",
+      "telugu": "కష్టం అయినా, పని కొనసాగించు.",
+      "transliteration": "kastam ainaa, pani konasaginchu",
+      "category": "Perseverance",
+      "generated_at": "2026-11-16T21:44:45.811596"
+    },
+    {
+      "english": "Slow progress is still progress.",
+      "telugu": "నెమ్మదిగా అయినా, ముందడుగు అదే.",
+      "transliteration": "nemmadi ga ainaa, mundadugu adhe",
+      "category": "Perseverance",
+      "generated_at": "2026-11-16T21:44:45.811597"
+    },
+    {
+      "english": "Breathe, relax, then continue.",
+      "telugu": "ఊపిరి పీల్చి, రిలాక్స్ అయ్యి, కొనసాగించు.",
+      "transliteration": "upiri peelchi, relax ayyi, konasaginchu",
+      "category": "Perseverance",
+      "generated_at": "2026-11-16T21:44:45.811597"
     }
   ],
-  "last_updated": "2026-11-16T05:52:41.135915"
+  "last_updated": "2026-11-16T21:44:45.811599"
 }
