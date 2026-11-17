@@ -6439,7 +6439,42 @@
       "transliteration": "Dayachesi samayam chusi cheppandi.",
       "category": "Time",
       "generated_at": "2026-11-17T21:59:34.388139"
+    },
+    {
+      "english": "Thank you for being here with me.",
+      "telugu": "నాతో ఉండి, ధన్యవాదాలు.",
+      "transliteration": "Naatho undi, dhanyavaadaalu.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-17T23:47:36.499026"
+    },
+    {
+      "english": "Thanks for checking in on me.",
+      "telugu": "నన్ను చూసేందుకు, ధన్యవాదాలు.",
+      "transliteration": "Nannu choosenduku, dhanyavaadaalu.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-17T23:47:36.499038"
+    },
+    {
+      "english": "I really appreciate your effort today.",
+      "telugu": "ఈరోజు చేసిన మీ ప్రయత్నానికి, నిజంగా ధన్యవాదాలు.",
+      "transliteration": "Eeroju chesina mee prayatnaaniki, nijanga dhanyavaadaalu.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-17T23:47:36.499039"
+    },
+    {
+      "english": "Thank you for your support, always.",
+      "telugu": "ఎప్పుడూ మీ మద్దతుకు, ధన్యవాదాలు.",
+      "transliteration": "Eppudu mee maddhatuku, dhanyavaadaalu.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-17T23:47:36.499040"
+    },
+    {
+      "english": "Thanks for helping me today, sincerely.",
+      "telugu": "ఈరోజు నాకు సహాయం చేసినందుకు, హృదయపూర్వక ధన్యవాదాలు.",
+      "transliteration": "Eeroju naaku sahaayam chesinanduku, hridayapoorvaka dhanyavaadaalu.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-17T23:47:36.499041"
     }
   ],
-  "last_updated": "2026-11-17T21:59:34.388141"
+  "last_updated": "2026-11-17T23:47:36.499043"
 }
