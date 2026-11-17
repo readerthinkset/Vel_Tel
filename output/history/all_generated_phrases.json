@@ -6404,7 +6404,42 @@
       "transliteration": "peddalanu gouravinchhu, vaari kadhala nunchi nerchuko.",
       "category": "Wisdom",
       "generated_at": "2026-11-17T20:34:40.390074"
+    },
+    {
+      "english": "What time does it start, please?",
+      "telugu": "ఇది ఎప్పుడు ప్రారంభమవుతుంది, దయచేసి?",
+      "transliteration": "Idi eppudu praarambhamavutundi, dayachesi?",
+      "category": "Time",
+      "generated_at": "2026-11-17T21:59:34.388126"
+    },
+    {
+      "english": "It’s almost 10, isn’t it?",
+      "telugu": "ఇప్పుడు దాదాపు 10 అయింది కదా?",
+      "transliteration": "Ippudu daadaapu 10 ayindi kada?",
+      "category": "Time",
+      "generated_at": "2026-11-17T21:59:34.388135"
+    },
+    {
+      "english": "I need it by noon.",
+      "telugu": "ఇది మధ్యాహ్నం లోపు కావాలి.",
+      "transliteration": "Idi madhyahnam lopu kaavaali.",
+      "category": "Time",
+      "generated_at": "2026-11-17T21:59:34.388137"
+    },
+    {
+      "english": "Let’s call at 4:30.",
+      "telugu": "మనం 4:30కి కాల్ చేద్దాం.",
+      "transliteration": "Manam 4:30ki kaal cheddam.",
+      "category": "Time",
+      "generated_at": "2026-11-17T21:59:34.388138"
+    },
+    {
+      "english": "Check the time, please.",
+      "telugu": "దయచేసి సమయం చూసి చెప్పండి.",
+      "transliteration": "Dayachesi samayam chusi cheppandi.",
+      "category": "Time",
+      "generated_at": "2026-11-17T21:59:34.388139"
     }
   ],
-  "last_updated": "2026-11-17T20:34:40.390076"
+  "last_updated": "2026-11-17T21:59:34.388141"
 }
