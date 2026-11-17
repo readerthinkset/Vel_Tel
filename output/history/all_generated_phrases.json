@@ -6299,7 +6299,42 @@
       "transliteration": "Hai, eeroju mi plan emiti?",
       "category": "Greetings",
       "generated_at": "2026-11-17T00:41:52.051948"
+    },
+    {
+      "english": "Good morning.",
+      "telugu": "శుభోదయం.",
+      "transliteration": "Shubhōdayam.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-11-17T02:43:20.960308"
+    },
+    {
+      "english": "Good night.",
+      "telugu": "శుభరాత్రి.",
+      "transliteration": "Shubharātri.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-11-17T02:43:20.960320"
+    },
+    {
+      "english": "I would like one tea, please.",
+      "telugu": "నాకు ఒక టీ కావాలి, దయచేసి.",
+      "transliteration": "Naaku oka tī kaavaali, dayachēsi.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-11-17T02:43:20.960322"
+    },
+    {
+      "english": "Where is this street?",
+      "telugu": "ఈ వీధి ఎక్కడ ఉంది?",
+      "transliteration": "Ī vīdi ekkaḍa undi?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-11-17T02:43:20.960324"
+    },
+    {
+      "english": "Is there a bus nearby?",
+      "telugu": "ఇక్కడ దగ్గరలో బస్సు ఉందా?",
+      "transliteration": "Ikkaḍa daaggaralō bus-su undā?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-11-17T02:43:20.960325"
     }
   ],
-  "last_updated": "2026-11-17T00:41:52.051949"
+  "last_updated": "2026-11-17T02:43:20.960327"
 }
