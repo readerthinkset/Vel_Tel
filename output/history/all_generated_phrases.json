@@ -6264,7 +6264,42 @@
       "transliteration": "Meeru entha gantaki terustaaru?",
       "category": "Common Expressions",
       "generated_at": "2026-11-16T23:09:44.313058"
+    },
+    {
+      "english": "Hello, how are things today?",
+      "telugu": "హలో, ఈరోజు ఎలా ఉంది?",
+      "transliteration": "Halo, eeroju ela undi?",
+      "category": "Greetings",
+      "generated_at": "2026-11-17T00:41:52.051931"
+    },
+    {
+      "english": "Hi, are you doing well?",
+      "telugu": "హాయ్, మీరు బాగున్నారా?",
+      "transliteration": "Hai, meeru baagunnara?",
+      "category": "Greetings",
+      "generated_at": "2026-11-17T00:41:52.051945"
+    },
+    {
+      "english": "Good morning, have a calm day.",
+      "telugu": "శుభోదయం, మీ రోజు ప్రశాంతంగా ఉండాలి.",
+      "transliteration": "Subhodayam, me rojū prashāntangā undāli.",
+      "category": "Greetings",
+      "generated_at": "2026-11-17T00:41:52.051946"
+    },
+    {
+      "english": "Hello, hope you slept well.",
+      "telugu": "హలో, మీరు బాగా నిద్రపోయారా?",
+      "transliteration": "Halo, meeru baagā nidrapoyārā?",
+      "category": "Greetings",
+      "generated_at": "2026-11-17T00:41:52.051947"
+    },
+    {
+      "english": "Hi, what’s your plan today?",
+      "telugu": "హాయ్, ఈరోజు మీ ప్లాన్ ఏమిటి?",
+      "transliteration": "Hai, eeroju mi plan emiti?",
+      "category": "Greetings",
+      "generated_at": "2026-11-17T00:41:52.051948"
     }
   ],
-  "last_updated": "2026-11-16T23:09:44.313060"
+  "last_updated": "2026-11-17T00:41:52.051949"
 }
