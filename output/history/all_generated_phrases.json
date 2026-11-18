@@ -6614,7 +6614,42 @@
       "transliteration": "Naa bhojanam lo ullipaayalu vaddhu.",
       "category": "Restaurant",
       "generated_at": "2026-11-18T21:41:11.965691"
+    },
+    {
+      "english": "Patience, things will settle down.",
+      "telugu": "ఓపికగా ఉండు, విషయాలు సర్దుకుంటాయి.",
+      "transliteration": "Oopikagaa unDu, vishayaalu sardukuntaayi.",
+      "category": "Patience",
+      "generated_at": "2026-11-18T23:18:29.844021"
+    },
+    {
+      "english": "Wait, and your turn will come.",
+      "telugu": "ఓపికగా ఉండు, నీ వంతు వస్తుంది.",
+      "transliteration": "Oopikagaa unDu, nee vantuu vastundi.",
+      "category": "Patience",
+      "generated_at": "2026-11-18T23:18:29.844033"
+    },
+    {
+      "english": "Calm down, answers come slowly.",
+      "telugu": "శాంతించు, జవాబులు నెమ్మదిగా వస్తాయి.",
+      "transliteration": "Shaanthinchu, javaabulu nemmadiagaa vastాయి.",
+      "category": "Patience",
+      "generated_at": "2026-11-18T23:18:29.844034"
+    },
+    {
+      "english": "Don’t worry, keep going, slowly.",
+      "telugu": "చింతించకు, నెమ్మదిగా అయినా ముందుకు సాగు.",
+      "transliteration": "Chinthinchaku, nemmadi gaa ainaa munduku saagu.",
+      "category": "Patience",
+      "generated_at": "2026-11-18T23:18:29.844035"
+    },
+    {
+      "english": "Take it easy, you’ll be fine.",
+      "telugu": "ఈజీగా తీసుకో, నీకు బాగుంటుంది.",
+      "transliteration": "Eezi gaa teesuko, neeku baaguntundi.",
+      "category": "Patience",
+      "generated_at": "2026-11-18T23:18:29.844037"
     }
   ],
-  "last_updated": "2026-11-18T21:41:11.965692"
+  "last_updated": "2026-11-18T23:18:29.844038"
 }
