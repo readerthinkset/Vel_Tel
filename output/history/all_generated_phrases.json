@@ -6579,7 +6579,42 @@
       "transliteration": "Sahāyam aḍagaṇḍi, adi baḷaṁ.",
       "category": "Self Improvement",
       "generated_at": "2026-11-18T20:06:49.113155"
+    },
+    {
+      "english": "Hi there, can we get menus?",
+      "telugu": "హాయ్, మెనూలు ఇవ్వగలరా?",
+      "transliteration": "Hai, menulu ivva galaraa?",
+      "category": "Restaurant",
+      "generated_at": "2026-11-18T21:41:11.965675"
+    },
+    {
+      "english": "Could we get water, please?",
+      "telugu": "దయచేసి నీళ్లు ఇవ్వగలరా?",
+      "transliteration": "Dayachesi neellu ivva galaraa?",
+      "category": "Restaurant",
+      "generated_at": "2026-11-18T21:41:11.965688"
+    },
+    {
+      "english": "Do you have spicy food today?",
+      "telugu": "ఈరోజు స్పైసీ ఆహారం ఉందా?",
+      "transliteration": "Ee roju spaisee aahaaram undaa?",
+      "category": "Restaurant",
+      "generated_at": "2026-11-18T21:41:11.965689"
+    },
+    {
+      "english": "I’m allergic to peanuts, please.",
+      "telugu": "నాకు వేరుశెనగలకు అలెర్జీ ఉంది.",
+      "transliteration": "Naaku verushenagalki alerji undi.",
+      "category": "Restaurant",
+      "generated_at": "2026-11-18T21:41:11.965690"
+    },
+    {
+      "english": "No onions for my meal, please.",
+      "telugu": "నా భోజనంలో ఉల్లిపాయలు వద్దు.",
+      "transliteration": "Naa bhojanam lo ullipaayalu vaddhu.",
+      "category": "Restaurant",
+      "generated_at": "2026-11-18T21:41:11.965691"
     }
   ],
-  "last_updated": "2026-11-18T20:06:49.113157"
+  "last_updated": "2026-11-18T21:41:11.965692"
 }
