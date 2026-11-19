@@ -6684,7 +6684,42 @@
       "transliteration": "mee alochanala pattunu vidadheeyandi, ikaki tirigi randi",
       "category": "Mindfulness",
       "generated_at": "2026-11-19T01:50:13.746147"
+    },
+    {
+      "english": "Can you say three more, please?",
+      "telugu": "మూడు ఇంకొంచెం చెప్పగలరా, దయచేసి?",
+      "transliteration": "Mūḍu inkoñceṃ cheppagalaraa, dayachēsi?",
+      "category": "Numbers",
+      "generated_at": "2026-11-19T06:56:12.088469"
+    },
+    {
+      "english": "I’m looking for number six.",
+      "telugu": "నాకు ఆరు నంబర్ కావాలి.",
+      "transliteration": "Naaku āru nambar kaavaali.",
+      "category": "Numbers",
+      "generated_at": "2026-11-19T06:56:12.088481"
+    },
+    {
+      "english": "Is this seven or eight?",
+      "telugu": "ఇది ఏడు కాదా, ఎనిమిదా?",
+      "transliteration": "Idhi ēḍu kaadaa, enimidaa?",
+      "category": "Numbers",
+      "generated_at": "2026-11-19T06:56:12.088483"
+    },
+    {
+      "english": "Please write nine on the paper.",
+      "telugu": "దయచేసి పేపర్‌పై తొమ్మిది రాయండి.",
+      "transliteration": "Dayachēsi pēparpai tōmmidi raayaṇḍi.",
+      "category": "Numbers",
+      "generated_at": "2026-11-19T06:56:12.088485"
+    },
+    {
+      "english": "Tell me the number, quickly.",
+      "telugu": "ఆ నంబర్ చెప్పండి, త్వరగా.",
+      "transliteration": "Ā nambar cheppandi, tvaragaa.",
+      "category": "Numbers",
+      "generated_at": "2026-11-19T06:56:12.088487"
     }
   ],
-  "last_updated": "2026-11-19T01:50:13.746149"
+  "last_updated": "2026-11-19T06:56:12.088490"
 }
