@@ -6719,7 +6719,42 @@
       "transliteration": "Ā nambar cheppandi, tvaragaa.",
       "category": "Numbers",
       "generated_at": "2026-11-19T06:56:12.088487"
+    },
+    {
+      "english": "I’ve got confidence, I can continue.",
+      "telugu": "నాకు నమ్మకం ఉంది, నేను కొనసాగించగలను.",
+      "transliteration": "Naaku nammakaṁ undi, nenu konasaaginchagalanu.",
+      "category": "Confidence",
+      "generated_at": "2026-11-19T20:06:19.437088"
+    },
+    {
+      "english": "I know Telugu will improve my day.",
+      "telugu": "తెలుగు నా రోజును మెరుగుపరుస్తుందని నాకు తెలుసు.",
+      "transliteration": "Telugu naa roju ni merugupaarustundani naaku telusu.",
+      "category": "Confidence",
+      "generated_at": "2026-11-19T20:06:19.437098"
+    },
+    {
+      "english": "My voice will come out, today.",
+      "telugu": "నా గొంతు ఈరోజు బయటకు వస్తుంది.",
+      "transliteration": "Naa goṇṭu ee roju bayataku vastundi.",
+      "category": "Confidence",
+      "generated_at": "2026-11-19T20:06:19.437100"
+    },
+    {
+      "english": "I can speak, even with pauses.",
+      "telugu": "నేను విరామాలతోనైనా మాట్లాడగలను.",
+      "transliteration": "Nenu viraamaalathōnaainaa maatlaadagalganu.",
+      "category": "Confidence",
+      "generated_at": "2026-11-19T20:06:19.437102"
+    },
+    {
+      "english": "I understand more each time I try.",
+      "telugu": "నేను ప్రయత్నించిన ప్రతిసారి మరింత అర్థం అవుతుంది.",
+      "transliteration": "Nenu prayatninchina pratisari inka artham avuthundi.",
+      "category": "Confidence",
+      "generated_at": "2026-11-19T20:06:19.437103"
     }
   ],
-  "last_updated": "2026-11-19T06:56:12.088490"
+  "last_updated": "2026-11-19T20:06:19.437105"
 }
