@@ -6754,7 +6754,42 @@
       "transliteration": "Nenu prayatninchina pratisari inka artham avuthundi.",
       "category": "Confidence",
       "generated_at": "2026-11-19T20:06:19.437103"
+    },
+    {
+      "english": "Mother, can you call me later?",
+      "telugu": "అమ్మా, తర్వాత నాకు ఫోన్ చేస్తావా?",
+      "transliteration": "ammaa, tarvata naaku phone chestavaa?",
+      "category": "Family Terms",
+      "generated_at": "2026-11-19T21:57:01.692917"
+    },
+    {
+      "english": "Father, please come home early.",
+      "telugu": "నాన్నా, దయచేసి ముందుగా ఇంటికి రా.",
+      "transliteration": "nanna, dayachesi mundugaa intiki raa.",
+      "category": "Family Terms",
+      "generated_at": "2026-11-19T21:57:01.692928"
+    },
+    {
+      "english": "She is my mother, very patient.",
+      "telugu": "ఆమె నా అమ్మ, చాలా ఓపికగా ఉంటుంది.",
+      "transliteration": "ame naa amma, chaalaa opikagaa untundi.",
+      "category": "Family Terms",
+      "generated_at": "2026-11-19T21:57:01.692929"
+    },
+    {
+      "english": "He is my father, strong and kind.",
+      "telugu": "అతను నా నాన్న, బలంగా కూడా మంచి మనసున్నాడు.",
+      "transliteration": "atanu naa nanna, balangaa kooda manchi manasunnadu.",
+      "category": "Family Terms",
+      "generated_at": "2026-11-19T21:57:01.692930"
+    },
+    {
+      "english": "My brother is quiet, but helpful.",
+      "telugu": "నా అన్నయ్య నిశ్శబ్దం, కానీ సహాయం చేస్తాడు.",
+      "transliteration": "naa annayya nishshabdam, kaani sahayam chestadu.",
+      "category": "Family Terms",
+      "generated_at": "2026-11-19T21:57:01.692931"
     }
   ],
-  "last_updated": "2026-11-19T20:06:19.437105"
+  "last_updated": "2026-11-19T21:57:01.692932"
 }
