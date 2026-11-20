@@ -6964,7 +6964,42 @@
       "transliteration": "Ee roju vacche manchi vaarthalu nannu prakaashimpajestunnaayi",
       "category": "Joy",
       "generated_at": "2026-11-20T21:40:22.523352"
+    },
+    {
+      "english": "I’m hurt, please stay with me.",
+      "telugu": "నాకు గాయం అయ్యింది, నాతో ఉండండి.",
+      "transliteration": "Naaku gaayam ayyindi, naatho undaṇḍi.",
+      "category": "Emergency",
+      "generated_at": "2026-11-20T22:59:36.384518"
+    },
+    {
+      "english": "I can’t breathe, help immediately.",
+      "telugu": "నాకు ఊపిరి రావడం లేదు, వెంటనే సహాయం చేయండి.",
+      "transliteration": "Naaku oopiri raavadam ledu, ventane sahaayam cheyaṇḍi.",
+      "category": "Emergency",
+      "generated_at": "2026-11-20T22:59:36.384529"
+    },
+    {
+      "english": "My chest hurts, call emergency help.",
+      "telugu": "నా ఛాతీ నొప్పిగా ఉంది, అత్యవసర సహాయం పిలవండి.",
+      "transliteration": "Naa chaatī noppiga undi, atyavasara sahaayam pilavandi.",
+      "category": "Emergency",
+      "generated_at": "2026-11-20T22:59:36.384531"
+    },
+    {
+      "english": "I’m dizzy, please sit me down.",
+      "telugu": "నాకు తల తిరుగుతోంది, దయచేసి నన్ను కూర్చోబెట్టండి.",
+      "transliteration": "Naaku tala tirugutondi, dayachesi nannu koorchobettandi.",
+      "category": "Emergency",
+      "generated_at": "2026-11-20T22:59:36.384533"
+    },
+    {
+      "english": "I think I’m having a seizure.",
+      "telugu": "నాకు మూర్చ వచ్చినట్టు ఉంది.",
+      "transliteration": "Naaku moorchā vachchinattu undi.",
+      "category": "Emergency",
+      "generated_at": "2026-11-20T22:59:36.384534"
     }
   ],
-  "last_updated": "2026-11-20T21:40:22.523354"
+  "last_updated": "2026-11-20T22:59:36.384537"
 }
