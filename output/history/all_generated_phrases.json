@@ -6859,7 +6859,42 @@
       "transliteration": "ee roju saadhane, repati dhairyam avuthundi.",
       "category": "Growth",
       "generated_at": "2026-11-20T01:33:43.744258"
+    },
+    {
+      "english": "Where is the nearest restroom, please?",
+      "telugu": "దయచేసి దగ్గర్లో బాత్‌రూమ్ ఎక్కడ ఉంది?",
+      "transliteration": "Dayachēsi daggarlo bathrūm ekkaḍa undi?",
+      "category": "Travel",
+      "generated_at": "2026-11-20T06:45:26.580611"
+    },
+    {
+      "english": "How much is a one-way ticket?",
+      "telugu": "వన్-వే టికెట్ ఎంత అవుతుంది?",
+      "transliteration": "Van-vē ṭikēṭ enta avuthundi?",
+      "category": "Travel",
+      "generated_at": "2026-11-20T06:45:26.580623"
+    },
+    {
+      "english": "Do I need to book in advance?",
+      "telugu": "ముందుగానే బుక్ చేయాలా?",
+      "transliteration": "Mundugānē būk chēyālā?",
+      "category": "Travel",
+      "generated_at": "2026-11-20T06:45:26.580625"
+    },
+    {
+      "english": "I want to check in, please.",
+      "telugu": "దయచేసి చెక్-ఇన్ చేయాలి.",
+      "transliteration": "Dayachēsi chek-in chēyāli.",
+      "category": "Travel",
+      "generated_at": "2026-11-20T06:45:26.580627"
+    },
+    {
+      "english": "Is breakfast included in the price?",
+      "telugu": "బ్రేక్‌ఫాస్ట్ ధరలో కలిసుందా?",
+      "transliteration": "Brēkfasṭ dharalo kalisundā?",
+      "category": "Travel",
+      "generated_at": "2026-11-20T06:45:26.580628"
     }
   ],
-  "last_updated": "2026-11-20T01:33:43.744260"
+  "last_updated": "2026-11-20T06:45:26.580630"
 }
