@@ -7034,7 +7034,42 @@
       "transliteration": "Niyamtraṇa teesuko, okko nirṇayam chālu.",
       "category": "Strength",
       "generated_at": "2026-11-21T01:00:09.621496"
+    },
+    {
+      "english": "I want to order food in Telugu.",
+      "telugu": "నేను తెలుగులో ఆర్డర్ చేయాలనుకుంటున్నాను.",
+      "transliteration": "nēnu telugulō ārdar ceyālani kōuntunnānu.",
+      "category": "Purpose",
+      "generated_at": "2026-11-21T06:38:57.974272"
+    },
+    {
+      "english": "I’d like to greet people properly in Telugu.",
+      "telugu": "నేను తెలుగులో అందరికీ సరైన పలకరింపులు నేర్చుకోవాలనుకుంటున్నాను.",
+      "transliteration": "nēnu telugulō andarikī saraina palakarimpulu nērchukōvālani kōuntunnānu.",
+      "category": "Purpose",
+      "generated_at": "2026-11-21T06:38:57.974288"
+    },
+    {
+      "english": "I practice daily, so my words flow.",
+      "telugu": "ప్రతిరోజూ సాధన చేస్తాను, నా మాటలు సులభంగా రావడానికి.",
+      "transliteration": "pratirōjū sādhanā cēstānu, nā māṭalu sulabhaṅgā rāvadaniki.",
+      "category": "Purpose",
+      "generated_at": "2026-11-21T06:38:57.974290"
+    },
+    {
+      "english": "I use Telugu to show respect.",
+      "telugu": "గౌరవం చూపడానికి నేను తెలుగును ఉపయోగిస్తాను.",
+      "transliteration": "gouravam cūpĩñdani nēnu telugunu upayōgistānu.",
+      "category": "Purpose",
+      "generated_at": "2026-11-21T06:38:57.974292"
+    },
+    {
+      "english": "I want to understand replies quickly.",
+      "telugu": "నేను త్వరగా సమాధానాలు అర్థం చేసుకోవాలనుకుంటున్నాను.",
+      "transliteration": "nēnu tvaragā samādhānālu arthaṁ cēsukōvālani kōuntunnānu.",
+      "category": "Purpose",
+      "generated_at": "2026-11-21T06:38:57.974294"
     }
   ],
-  "last_updated": "2026-11-21T01:00:09.621497"
+  "last_updated": "2026-11-21T06:38:57.974296"
 }
