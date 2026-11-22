@@ -7314,7 +7314,42 @@
       "transliteration": "Ikkada cardlu teesukuntaaraa?",
       "category": "Basic Phrases",
       "generated_at": "2026-11-22T20:32:24.916660"
+    },
+    {
+      "english": "Hope is a steady light inside you.",
+      "telugu": "ఆశ మీలో ఉన్న స్థిరమైన వెలుగు.",
+      "transliteration": "Aasha mēlo unna sthairyamaina velugu.",
+      "category": "Hope",
+      "generated_at": "2026-11-22T22:21:30.703445"
+    },
+    {
+      "english": "Even small hope can lift you.",
+      "telugu": "చిన్న ఆశ కూడా నిన్ను పైకి తీస్తుంది.",
+      "transliteration": "Chinna aasha kooda ninnu paiki teeshtundi.",
+      "category": "Hope",
+      "generated_at": "2026-11-22T22:21:30.703459"
+    },
+    {
+      "english": "When you pause, choose hope.",
+      "telugu": "నువ్వు ఆగినప్పుడు ఆశనే ఎంచుకో.",
+      "transliteration": "Nuvvu aaginappudu aashan̄e en̄chuko.",
+      "category": "Hope",
+      "generated_at": "2026-11-22T22:21:30.703461"
+    },
+    {
+      "english": "Hope whispers, you’ll be okay.",
+      "telugu": "ఆశ నెమ్మదిగా చెబుతుంది, నువ్వు బాగుంటావు.",
+      "transliteration": "Aasha nemmadigaa chebutundi, nuvvu baaguntaavu.",
+      "category": "Hope",
+      "generated_at": "2026-11-22T22:21:30.703462"
+    },
+    {
+      "english": "Take courage, hope is nearby.",
+      "telugu": "ధైర్యం తీసుకో, ఆశ దగ్గరే ఉంది.",
+      "transliteration": "Dhairyam teesuko, aasha daggare undi.",
+      "category": "Hope",
+      "generated_at": "2026-11-22T22:21:30.703463"
     }
   ],
-  "last_updated": "2026-11-22T20:32:24.916661"
+  "last_updated": "2026-11-22T22:21:30.703465"
 }
