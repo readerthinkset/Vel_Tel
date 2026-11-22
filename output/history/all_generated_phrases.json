@@ -7209,7 +7209,42 @@
       "transliteration": "Nee navvu chaala artham undi.",
       "category": "Friendship",
       "generated_at": "2026-11-22T00:00:35.675078"
+    },
+    {
+      "english": "Forgive me, I was wrong.",
+      "telugu": "నన్ను క్షమించండి, నేను తప్పు చేసాను.",
+      "transliteration": "Nannu kshamin̄chandi, nenu tappu chesaanu.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-22T06:07:02.944914"
+    },
+    {
+      "english": "I’m sorry, I didn’t mean that.",
+      "telugu": "నన్ను క్షమించండి, నేను అలా అనుకోలేదు.",
+      "transliteration": "Nannu kshamin̄chandi, nenu alaa anukoledhu.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-22T06:07:02.944925"
+    },
+    {
+      "english": "Please, forget what I said.",
+      "telugu": "నేను చెప్పింది మర్చిపోండి, దయచేసి.",
+      "transliteration": "Nenu cheppindi marchipōnḍi, dayachēsi.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-22T06:07:02.944927"
+    },
+    {
+      "english": "I hear you, and I forgive.",
+      "telugu": "మీ మాట విన్నాను, నేను క్షమిస్తున్నాను.",
+      "transliteration": "Mee maata vinnānu, nēnu kshamin̄chutunnānu.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-22T06:07:02.944928"
+    },
+    {
+      "english": "I’ll make it right, please.",
+      "telugu": "నేను సరి చేస్తాను, దయచేసి.",
+      "transliteration": "Nēnu sari chestaanu, dayachēsi.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-22T06:07:02.944930"
     }
   ],
-  "last_updated": "2026-11-22T00:00:35.675080"
+  "last_updated": "2026-11-22T06:07:02.944932"
 }
