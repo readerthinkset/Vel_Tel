@@ -7419,7 +7419,42 @@
       "transliteration": "Neekendukante nenu adrushtavanthudini.",
       "category": "Love",
       "generated_at": "2026-11-23T06:59:17.355010"
+    },
+    {
+      "english": "What time do you usually wake up?",
+      "telugu": "మీరు సాధారణంగా ఎప్పుడు మేల్కొంటారు?",
+      "transliteration": "Mīru sādhāraṇanga eppudu mēlkonṭāru?",
+      "category": "Time",
+      "generated_at": "2026-11-23T23:30:57.892671"
+    },
+    {
+      "english": "It’s 8:15 now, right?",
+      "telugu": "ఇప్పుడు 8:15 కదా?",
+      "transliteration": "Ippudu 8:15 kadā?",
+      "category": "Time",
+      "generated_at": "2026-11-23T23:30:57.892684"
+    },
+    {
+      "english": "I’m running late, what’s the time?",
+      "telugu": "నేను ఆలస్యమవుతున్నాను, సమయం ఎంత?",
+      "transliteration": "Nēnu ālasyamavutunnānu, samayam entha?",
+      "category": "Time",
+      "generated_at": "2026-11-23T23:30:57.892686"
+    },
+    {
+      "english": "We should leave at 6:30.",
+      "telugu": "మనం 6:30కి బయలుదేరాలి.",
+      "transliteration": "Manam 6:30ki biyaludērāli.",
+      "category": "Time",
+      "generated_at": "2026-11-23T23:30:57.892687"
+    },
+    {
+      "english": "Is lunch at noon for us?",
+      "telugu": "మనకి మధ్యాహ్నం లంచ్‌నా?",
+      "transliteration": "Manaki madhyāhnaṁ lunch-na?",
+      "category": "Time",
+      "generated_at": "2026-11-23T23:30:57.892688"
     }
   ],
-  "last_updated": "2026-11-23T06:59:17.355012"
+  "last_updated": "2026-11-23T23:30:57.892690"
 }
