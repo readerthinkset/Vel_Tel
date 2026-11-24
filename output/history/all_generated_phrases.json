@@ -7594,7 +7594,42 @@
       "transliteration": "Mee alochanaatmaka maatalaku nenu kr̥tajñatalu.",
       "category": "Gratitude",
       "generated_at": "2026-11-24T09:25:36.379162"
+    },
+    {
+      "english": "How many are there, exactly?",
+      "telugu": "ఎన్ని ఉన్నాయి, ఖచ్చితంగా?",
+      "transliteration": "Enni unnai, khachchitanga?",
+      "category": "Numbers",
+      "generated_at": "2026-11-24T22:01:22.887748"
+    },
+    {
+      "english": "I want three more, please.",
+      "telugu": "నాకు ఇంకా మూడు కావాలి, దయచేసి.",
+      "transliteration": "Naaku inkaa moodu kaavali, dayachesi.",
+      "category": "Numbers",
+      "generated_at": "2026-11-24T22:01:22.887763"
+    },
+    {
+      "english": "Show me four, please.",
+      "telugu": "నాకు నాలుగు చూపించండి, దయచేసి.",
+      "transliteration": "Naaku naalugu choopinchandi, dayachesi.",
+      "category": "Numbers",
+      "generated_at": "2026-11-24T22:01:22.887764"
+    },
+    {
+      "english": "Say two, then pause.",
+      "telugu": "రెండు చెప్పండి, తరువాత ఆగండి.",
+      "transliteration": "Rendu cheppandi, taruvata aagandi.",
+      "category": "Numbers",
+      "generated_at": "2026-11-24T22:01:22.887765"
+    },
+    {
+      "english": "Let’s count to five together.",
+      "telugu": "మనిద్దరం కలిసి ఐదు వరకు లెక్కిద్దాం.",
+      "transliteration": "Maniddaram kalisi aidu varaku lekkiddam.",
+      "category": "Numbers",
+      "generated_at": "2026-11-24T22:01:22.887766"
     }
   ],
-  "last_updated": "2026-11-24T09:25:36.379163"
+  "last_updated": "2026-11-24T22:01:22.887768"
 }
