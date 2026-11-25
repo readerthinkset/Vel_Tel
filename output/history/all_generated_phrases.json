@@ -7734,7 +7734,42 @@
       "transliteration": "Idi nāku perphēkt gā undi.",
       "category": "Shopping",
       "generated_at": "2026-11-25T03:16:41.389369"
+    },
+    {
+      "english": "Inhale softly, unclench your belly.",
+      "telugu": "నెమ్మదిగా శ్వాస తీసుకో, పొట్టను సడలించు.",
+      "transliteration": "Nemmadīga shvāsa tīsuko, poṭtanu saḍalincu.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-25T07:58:14.127282"
+    },
+    {
+      "english": "Exhale slowly, loosen your grip.",
+      "telugu": "నెమ్మదిగా ఊదువు, బిగుతును వదులు.",
+      "transliteration": "Nemmadīga ūduvu, biguṭunu vadulu.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-25T07:58:14.127294"
+    },
+    {
+      "english": "Relax your eyes, soften your gaze.",
+      "telugu": "కళ్లను సడలించు, చూపును మృదువుగా ఉంచు.",
+      "transliteration": "Kallanu saḍalincu, choopunu mṛduvaga unccu.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-25T07:58:14.127296"
+    },
+    {
+      "english": "Feel your hands, let them rest.",
+      "telugu": "చేతులను అనుభవించు, అవి విశ్రాంతి తీసుకోనివ్వు.",
+      "transliteration": "Chetulanu anubhaviśinchu, avi visrānti tīskoanīvvu.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-25T07:58:14.127297"
+    },
+    {
+      "english": "Notice sound, without chasing it.",
+      "telugu": "శబ్దాన్ని గమనించు, వెంబడించకుండా.",
+      "transliteration": "Śabḍanni gamaninchu, vembadin̄cakunda.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-25T07:58:14.127298"
     }
   ],
-  "last_updated": "2026-11-25T03:16:41.389371"
+  "last_updated": "2026-11-25T07:58:14.127300"
 }
