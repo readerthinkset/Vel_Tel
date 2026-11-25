@@ -7699,7 +7699,42 @@
       "transliteration": "Chinna vijayāl, pedda nammakaṁ penchutāyi.",
       "category": "Wisdom",
       "generated_at": "2026-11-25T01:17:35.948707"
+    },
+    {
+      "english": "Where can I find this item?",
+      "telugu": "ఈ వస్తువు ఎక్కడ ఉంటుంది?",
+      "transliteration": "Ee vastuvu ekkaḍa uṇṭundi?",
+      "category": "Shopping",
+      "generated_at": "2026-11-25T03:16:41.389344"
+    },
+    {
+      "english": "How much does this cost, please?",
+      "telugu": "ఇది ఎంత ఖర్చవుతుంది, దయచేసి?",
+      "transliteration": "Idi entha kharchavuthundi, dayachēsi?",
+      "category": "Shopping",
+      "generated_at": "2026-11-25T03:16:41.389361"
+    },
+    {
+      "english": "Do you accept card payments here?",
+      "telugu": "ఇక్కడ కార్డు చెల్లింపులు తీసుకుంటారా?",
+      "transliteration": "Ikkada kārḍu chellimpulu teesukuntārā?",
+      "category": "Shopping",
+      "generated_at": "2026-11-25T03:16:41.389364"
+    },
+    {
+      "english": "I’m just browsing, no rush.",
+      "telugu": "నేను 그냥 చూస్తున్నాను, తొందర లేదు.",
+      "transliteration": "Nēnu gānyā choosthunnānu, thondara lēdu.",
+      "category": "Shopping",
+      "generated_at": "2026-11-25T03:16:41.389367"
+    },
+    {
+      "english": "This looks perfect for me.",
+      "telugu": "ఇది నాకు పర్ఫెక్ట్‌గా ఉంది.",
+      "transliteration": "Idi nāku perphēkt gā undi.",
+      "category": "Shopping",
+      "generated_at": "2026-11-25T03:16:41.389369"
     }
   ],
-  "last_updated": "2026-11-25T01:17:35.948709"
+  "last_updated": "2026-11-25T03:16:41.389371"
 }
