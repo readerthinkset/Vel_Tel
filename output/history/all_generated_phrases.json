@@ -7769,7 +7769,42 @@
       "transliteration": "Śabḍanni gamaninchu, vembadin̄cakunda.",
       "category": "Mindfulness",
       "generated_at": "2026-11-25T07:58:14.127298"
+    },
+    {
+      "english": "My sister is laughing right now.",
+      "telugu": "నా చెల్లి ఇప్పుడు నవ్వుతోంది.",
+      "transliteration": "Naa chelli ippudu navvutondi.",
+      "category": "Family Terms",
+      "generated_at": "2026-11-25T21:13:51.826612"
+    },
+    {
+      "english": "I miss my grandfather's warm smile.",
+      "telugu": "నాకు నా తాతయ్య వెచ్చని చిరునవ్వు గుర్తొస్తుంది.",
+      "transliteration": "Naaku naa taatayy vechchani chirunavvu gurthosthundi.",
+      "category": "Family Terms",
+      "generated_at": "2026-11-25T21:13:51.826627"
+    },
+    {
+      "english": "My father is brewing tea downstairs.",
+      "telugu": "నా నాన్న కింద టీ కాచుతున్నారు.",
+      "transliteration": "Naa naannakinda tee kaachuthunnaru.",
+      "category": "Family Terms",
+      "generated_at": "2026-11-25T21:13:51.826629"
+    },
+    {
+      "english": "Your sister called me a moment ago.",
+      "telugu": "మీ చెల్లి కొద్దిసేపటి క్రితం నాకు కాల్ చేసింది.",
+      "transliteration": "Mee chelli koddisepti kritham naaku call chesindi.",
+      "category": "Family Terms",
+      "generated_at": "2026-11-25T21:13:51.826630"
+    },
+    {
+      "english": "We share stories at home, together.",
+      "telugu": "మన ఇంట్లో మనం కలిసి కథలు పంచుకుంటాం.",
+      "transliteration": "Mana intlo manam kalisi kathalu panchukuntaam.",
+      "category": "Family Terms",
+      "generated_at": "2026-11-25T21:13:51.826632"
     }
   ],
-  "last_updated": "2026-11-25T07:58:14.127300"
+  "last_updated": "2026-11-25T21:13:51.826635"
 }
