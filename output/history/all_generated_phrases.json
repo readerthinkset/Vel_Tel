@@ -7804,7 +7804,42 @@
       "transliteration": "Mana intlo manam kalisi kathalu panchukuntaam.",
       "category": "Family Terms",
       "generated_at": "2026-11-25T21:13:51.826632"
+    },
+    {
+      "english": "Hello, how do you feel today?",
+      "telugu": "హలో, ఈరోజు మీకు ఎలా ఉంది?",
+      "transliteration": "Halo, īrōju mīku elā undi?",
+      "category": "Greetings",
+      "generated_at": "2026-11-25T22:53:42.898854"
+    },
+    {
+      "english": "Good morning, have a smooth day.",
+      "telugu": "శుభోదయం, మీ రోజు సాఫీగా సాగాలి.",
+      "transliteration": "Śubhōdayam, mī rōju sāphīgā sāgāli.",
+      "category": "Greetings",
+      "generated_at": "2026-11-25T22:53:42.898867"
+    },
+    {
+      "english": "Hi, are you ready for today?",
+      "telugu": "హాయ్, ఈరోజుకి రెడీనా?",
+      "transliteration": "Hāy, īrōjukī redīnā?",
+      "category": "Greetings",
+      "generated_at": "2026-11-25T22:53:42.898870"
+    },
+    {
+      "english": "Hello, welcome in, sit comfortably.",
+      "telugu": "హలో, స్వాగతం, సౌకర్యంగా కూర్చోండి.",
+      "transliteration": "Halo, svāgatam, saukaryangā kūrchōṇḍi.",
+      "category": "Greetings",
+      "generated_at": "2026-11-25T22:53:42.898871"
+    },
+    {
+      "english": "Hey, what’s happening today, friend?",
+      "telugu": "హే, ఈరోజు ఏం జరుగుతోంది, మిత్రమా?",
+      "transliteration": "Hē, īrōju ēṁ jarugutōndi, mitramā?",
+      "category": "Greetings",
+      "generated_at": "2026-11-25T22:53:42.898872"
     }
   ],
-  "last_updated": "2026-11-25T21:13:51.826635"
+  "last_updated": "2026-11-25T22:53:42.898874"
 }
