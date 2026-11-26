@@ -7909,7 +7909,42 @@
       "transliteration": "Malli prayatninchandi, bhayaaniki adhikaaram ivvakandi.",
       "category": "Courage",
       "generated_at": "2026-11-26T02:34:30.679463"
+    },
+    {
+      "english": "Excuse me, can I see the menu?",
+      "telugu": "క్షమించండి, మెనూ చూపిస్తారా?",
+      "transliteration": "kshaminchandi, menu choopisthara?",
+      "category": "Restaurant",
+      "generated_at": "2026-11-26T07:48:37.879655"
+    },
+    {
+      "english": "Could we get a small glass of water?",
+      "telugu": "చిన్న గ్లాస్ నీరు ఇవ్వగలరా?",
+      "transliteration": "chinna glass neeru ivvagalara?",
+      "category": "Restaurant",
+      "generated_at": "2026-11-26T07:48:37.879668"
+    },
+    {
+      "english": "Do you serve any vegetarian meals?",
+      "telugu": "మీ దగ్గర వెజిటేరియన్ వంటకాలున్నాయా?",
+      "transliteration": "mee daggara vegetarian vantakalunnaya?",
+      "category": "Restaurant",
+      "generated_at": "2026-11-26T07:48:37.879670"
+    },
+    {
+      "english": "I’d like to order something mild.",
+      "telugu": "నాకు మైల్డ్‌గా ఏదైనా కావాలి.",
+      "transliteration": "naaku mild-ga edaina kaavali.",
+      "category": "Restaurant",
+      "generated_at": "2026-11-26T07:48:37.879670"
+    },
+    {
+      "english": "Please bring our food soon.",
+      "telugu": "దయచేసి మా వంటకం త్వరగా తీసుకురండి.",
+      "transliteration": "dayachesi maa vantakam twaraga teesukuvandi.",
+      "category": "Restaurant",
+      "generated_at": "2026-11-26T07:48:37.879671"
     }
   ],
-  "last_updated": "2026-11-26T02:34:30.679466"
+  "last_updated": "2026-11-26T07:48:37.879672"
 }
