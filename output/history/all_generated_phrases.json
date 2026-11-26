@@ -7839,7 +7839,42 @@
       "transliteration": "Hē, īrōju ēṁ jarugutōndi, mitramā?",
       "category": "Greetings",
       "generated_at": "2026-11-25T22:53:42.898872"
+    },
+    {
+      "english": "Please speak slowly, I’m learning Telugu.",
+      "telugu": "దయచేసి నెమ్మదిగా చెప్పండి, నేను తెలుగు నేర్చుకుంటున్నాను.",
+      "transliteration": "Dayachēsi nēmmadigā cheppandi, nēnu telugu nērchukuntunnānu.",
+      "category": "Common Expressions",
+      "generated_at": "2026-11-26T00:52:48.286818"
+    },
+    {
+      "english": "Yes, that’s right, I agree.",
+      "telugu": "అవును, అది సరైనది, నేను అంగీకరిస్తాను.",
+      "transliteration": "Avunu, adi sarainadi, nēnu angīkariṣṭānu.",
+      "category": "Common Expressions",
+      "generated_at": "2026-11-26T00:52:48.286833"
+    },
+    {
+      "english": "No, not like that, sorry.",
+      "telugu": "లేదు, అలా కాదు, క్షమించండి.",
+      "transliteration": "Lēdu, alā kādu, kṣamin̄candi.",
+      "category": "Common Expressions",
+      "generated_at": "2026-11-26T00:52:48.286835"
+    },
+    {
+      "english": "I’ll try my best, thank you.",
+      "telugu": "నేను నా వంతు ప్రయత్నిస్తాను, ధన్యవాదాలు.",
+      "transliteration": "Nēnu nā vantū prayatnisthānu, dhan’yavādālu.",
+      "category": "Common Expressions",
+      "generated_at": "2026-11-26T00:52:48.286836"
+    },
+    {
+      "english": "It’s okay, you don’t need to.",
+      "telugu": "పర్లేదు, మీకు అవసరం లేదు.",
+      "transliteration": "Parlēdu, mīku avasaram lēdu.",
+      "category": "Common Expressions",
+      "generated_at": "2026-11-26T00:52:48.286837"
     }
   ],
-  "last_updated": "2026-11-25T22:53:42.898874"
+  "last_updated": "2026-11-26T00:52:48.286839"
 }
