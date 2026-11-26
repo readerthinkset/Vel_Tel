@@ -7944,7 +7944,42 @@
       "transliteration": "dayachesi maa vantakam twaraga teesukuvandi.",
       "category": "Restaurant",
       "generated_at": "2026-11-26T07:48:37.879671"
+    },
+    {
+      "english": "I’m here, to make real friends.",
+      "telugu": "నేను ఇక్కడ, నిజమైన స్నేహితులను చేసుకోవడానికి.",
+      "transliteration": "Nēnu ikkada, nijamaina snēhitulanu chēsukōdanki.",
+      "category": "Purpose",
+      "generated_at": "2026-11-26T21:02:57.731962"
+    },
+    {
+      "english": "I want to order calmly, in Telugu.",
+      "telugu": "నేను ప్రశాంతంగా, తెలుగులో ఆర్డర్ చేయాలనుకుంటున్నాను.",
+      "transliteration": "Nēnu prasāntanga, telugulō ārḍar chēyālanukuntunnānu.",
+      "category": "Purpose",
+      "generated_at": "2026-11-26T21:02:57.731974"
+    },
+    {
+      "english": "Thank you, I’ll try Telugu today.",
+      "telugu": "ధన్యవాదాలు, నేను ఈరోజు తెలుగు ప్రయత్నిస్తాను.",
+      "transliteration": "Dhaṉyavādāl, nēnu īrōju telugu prayatnisthānu.",
+      "category": "Purpose",
+      "generated_at": "2026-11-26T21:02:57.731976"
+    },
+    {
+      "english": "Excuse me, could you speak slower?",
+      "telugu": "క్షమించండి, మీరు కొంచెం నెమ్మదిగా మాట్లాడగలరా?",
+      "transliteration": "Kṣamīchandi, mīru konchēm nēm'madigā mātłāḍagalarā?",
+      "category": "Purpose",
+      "generated_at": "2026-11-26T21:02:57.731977"
+    },
+    {
+      "english": "I love Telugu, it feels warm.",
+      "telugu": "నాకు తెలుగు ఇష్టం, ఇది వెచ్చగా అనిపిస్తుంది.",
+      "transliteration": "Nāku telugu iṣṭam, idi vechchagā anipistundi.",
+      "category": "Purpose",
+      "generated_at": "2026-11-26T21:02:57.731979"
     }
   ],
-  "last_updated": "2026-11-26T07:48:37.879672"
+  "last_updated": "2026-11-26T21:02:57.731981"
 }
