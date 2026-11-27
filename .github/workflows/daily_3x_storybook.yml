@@ -2,9 +2,9 @@ name: Velocity Telugu - Storybook Publish
 
 on:
   schedule:
-    - cron: '00:13 * * *'
-    - cron: '08:13 * * *'
-    - cron: '16:13 * * *'
+    - cron: '13 0 * * *'
+    - cron: '13 8 * * *'
+    - cron: '13 16 * * *'
   workflow_dispatch:
     inputs:
       category:
