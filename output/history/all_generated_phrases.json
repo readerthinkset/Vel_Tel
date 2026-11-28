@@ -8056,7 +8056,28 @@
       "transliteration": "Prati prayatnamtho mee nammakam peruguthundi.",
       "category": "Success",
       "generated_at": "2026-11-27T19:26:10.924047"
+    },
+    {
+      "english": "Please help me get to a doctor.",
+      "telugu": "దయచేసి నన్ను డాక్టర్ దగ్గరికి తీసుకెళ్లండి.",
+      "transliteration": "Dayachesi nannu doktor daggariki teesukellandi.",
+      "category": "Emergency",
+      "generated_at": "2026-11-28T00:50:34.719106"
+    },
+    {
+      "english": "I feel very sick, please come.",
+      "telugu": "నాకు చాలా అసౌకర్యంగా ఉంది, మీరు రావండి.",
+      "transliteration": "Naaku chaala asaukaryamga undi, meeru raavandi.",
+      "category": "Emergency",
+      "generated_at": "2026-11-28T00:50:34.719122"
+    },
+    {
+      "english": "Something is wrong, call for help.",
+      "telugu": "ఏదో తప్పుగా ఉంది, సహాయం తీసుకురండి.",
+      "transliteration": "Edho tappugaa undi, sahaayam teesukonirandi.",
+      "category": "Emergency",
+      "generated_at": "2026-11-28T00:50:34.719123"
     }
   ],
-  "last_updated": "2026-11-27T19:26:10.924049"
+  "last_updated": "2026-11-28T00:50:34.719125"
 }
